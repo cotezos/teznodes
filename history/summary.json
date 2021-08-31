@@ -158,19 +158,19 @@
     "url": "https://api.tez.ie/rpc/granadanet/chains/main/blocks/head",
     "icon": "https://favicons.githubusercontent.com/api.tez.ie",
     "slug": "granadanet-tez-io",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 156,
-    "timeDay": 101,
-    "timeWeek": 156,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 154,
+    "timeDay": 108,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {
-      "2021-08-31": 12
+      "2021-08-31": 46
     }
   },
   {
