@@ -164,17 +164,17 @@
     "url": "https://api.tez.ie/rpc/granadanet/chains/main/blocks/head",
     "icon": "https://favicons.githubusercontent.com/api.tez.ie",
     "slug": "granadanet-tez-io",
-    "status": "up",
+    "status": "down",
     "uptime": "93.15%",
     "uptimeDay": "63.35%",
     "uptimeWeek": "93.15%",
     "uptimeMonth": "93.15%",
     "uptimeYear": "93.15%",
-    "time": 142,
-    "timeDay": 145,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "time": 140,
+    "timeDay": 142,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2021-09-01": 522,
       "2021-08-31": 99
@@ -186,18 +186,18 @@
     "icon": "https://favicons.githubusercontent.com/granadanet.smartpy.io",
     "slug": "granadanet-smartpy",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.87%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 598,
     "timeDay": 592,
     "timeWeek": 598,
     "timeMonth": 598,
     "timeYear": 598,
     "dailyMinutesDown": {
-      "2021-09-01": 0
+      "2021-09-01": 11
     }
   }
 ]
