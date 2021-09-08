@@ -1,7 +1,7 @@
 url: https://mainnet.tezrpc.me/chains/main/blocks/head/metadata
-status: down
-code: 502
-responseTime: 378
-lastUpdated: 2021-09-08T07:58:34.678Z
+status: up
+code: 200
+responseTime: 1313
+lastUpdated: 2021-09-08T08:21:31.178Z
 startTime: Thu Aug 26 2021 15:01:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
