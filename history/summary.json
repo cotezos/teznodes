@@ -112,12 +112,12 @@
     "url": "https://mainnet.tezrpc.me/chains/main/blocks/head/metadata",
     "icon": "https://favicons.githubusercontent.com/mainnet.tezrpc.me",
     "slug": "mainnet-tez-rpc",
-    "status": "up",
-    "uptime": "92.98%",
-    "uptimeDay": "76.32%",
+    "status": "down",
+    "uptime": "93.02%",
+    "uptimeDay": "76.93%",
     "uptimeWeek": "84.42%",
-    "uptimeMonth": "92.98%",
-    "uptimeYear": "92.98%",
+    "uptimeMonth": "93.02%",
+    "uptimeYear": "93.02%",
     "time": 537,
     "timeDay": 372,
     "timeWeek": 566,
@@ -132,8 +132,7 @@
       "2021-09-06": 208,
       "2021-09-05": 9,
       "2021-09-02": 17,
-      "2021-09-01": 8,
-      "2021-08-31": 8
+      "2021-09-01": 8
     }
   },
   {
@@ -161,7 +160,7 @@
     "slug": "florencenet-tez-ie",
     "status": "up",
     "uptime": "95.84%",
-    "uptimeDay": "79.62%",
+    "uptimeDay": "80.27%",
     "uptimeWeek": "90.58%",
     "uptimeMonth": "95.84%",
     "uptimeYear": "95.84%",
