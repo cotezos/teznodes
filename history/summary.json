@@ -112,15 +112,15 @@
     "url": "https://mainnet.tezrpc.me/chains/main/blocks/head/metadata",
     "icon": "https://favicons.githubusercontent.com/mainnet.tezrpc.me",
     "slug": "mainnet-tez-rpc",
-    "status": "up",
-    "uptime": "94.16%",
-    "uptimeDay": "77.62%",
-    "uptimeWeek": "84.83%",
-    "uptimeMonth": "94.16%",
-    "uptimeYear": "94.16%",
+    "status": "down",
+    "uptime": "94.20%",
+    "uptimeDay": "77.61%",
+    "uptimeWeek": "84.92%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "94.20%",
     "time": 498,
     "timeDay": 536,
-    "timeWeek": 523,
+    "timeWeek": 524,
     "timeMonth": 498,
     "timeYear": 498,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
       "2021-09-12": 354,
       "2021-09-11": 346,
       "2021-09-10": 220,
-      "2021-09-09": 328
+      "2021-09-09": 319
     }
   },
   {
