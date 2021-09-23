@@ -8,21 +8,23 @@ sites:
   - name: Mainnet tez.ie 
     url: https://api.tez.ie/rpc/mainnet/chains/main/blocks/head
   - name: Mainnet Smartpy 
-    url: https://mainnet.smartpy.io/chains/main/blocks/head
+    url: https://mainnet.smartpy.io/chains/main/blocks/head/header
   - name: Mainnet Letsbake
-    url: https://teznode.letzbake.com/chains/main/blocks/head
+    url: https://teznode.letzbake.com/chains/main/blocks/head/header
   - name: Mainnet Tzbeta
-    url: https://rpc.tzbeta.net/chains/main/blocks/head
+    url: https://rpc.tzbeta.net/chains/main/blocks/head/header
   - name: Mainnet TezRPC
-    url: https://mainnet.tezrpc.me/chains/main/blocks/head/metadata
+    url: https://mainnet.tezrpc.me/chains/main/blocks/head/header
   - name: florencenet Giganode 
-    url: https://florence-tezos.giganode.io/chains/main/blocks/head
+    url: https://florence-tezos.giganode.io/chains/main/blocks/head/header
   - name: florencenet Tez.ie
-    url: https://api.tez.ie/rpc/florencenet/chains/main/blocks/head
+    url: https://api.tez.ie/rpc/florencenet/chains/main/blocks/head/header
   - name: granadanet tez.io  
-    url: https://api.tez.ie/rpc/granadanet/chains/main/blocks/head
+    url: https://api.tez.ie/rpc/granadanet/chains/main/blocks/head/header
   - name: granadanet Smartpy 
-    url: https://granadanet.smartpy.io/chains/main/blocks/head
+    url: https://granadanet.smartpy.io/chains/main/blocks/head/header
+  - name: hangzhounet Smartpy
+    url: https://hangzhounet.smartpy.io/chains/main/blocks/head/header
 #   - name:
 #     url: 
 #   - name: Google
