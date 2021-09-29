@@ -1,7 +1,7 @@
 url: https://api.tez.ie/rpc/florencenet/chains/main/blocks/head/header
-status: down
-code: 502
-responseTime: 67
-lastUpdated: 2021-09-29T21:59:36.020Z
+status: up
+code: 200
+responseTime: 277
+lastUpdated: 2021-09-29T22:19:18.195Z
 startTime: Thu Aug 26 2021 15:01:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
