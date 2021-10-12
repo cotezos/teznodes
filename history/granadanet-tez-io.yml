@@ -1,7 +1,7 @@
 url: https://api.tez.ie/rpc/granadanet/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 138
-lastUpdated: 2021-10-11T23:06:10.721Z
+responseTime: 212
+lastUpdated: 2021-10-12T23:06:04.629Z
 startTime: Thu Aug 26 2021 15:01:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
