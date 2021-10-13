@@ -15,8 +15,6 @@ sites:
     url: https://rpc.tzbeta.net/chains/main/blocks/head/header
   - name: Mainnet TezRPC
     url: https://mainnet.tezrpc.me/chains/main/blocks/head/header
-  - name: florencenet Giganode 
-    url: https://florence-tezos.giganode.io/chains/main/blocks/head/header
   - name: florencenet Tez.ie
     url: https://api.tez.ie/rpc/florencenet/chains/main/blocks/head/header
   - name: granadanet tez.io  
