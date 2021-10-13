@@ -21,8 +21,11 @@ sites:
     url: https://api.tez.ie/rpc/granadanet/chains/main/blocks/head/header
   - name: granadanet Smartpy 
     url: https://granadanet.smartpy.io/chains/main/blocks/head/header
+  - name: Testnet Giganode 
+    url: https://testnet-tezos.giganode.io/chains/main/blocks/head/header
   - name: hangzhounet Smartpy
     url: https://hangzhounet.smartpy.io/chains/main/blocks/head/header
+    
 #   - name:
 #     url: 
 #   - name: Google
