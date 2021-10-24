@@ -1,7 +1,7 @@
 url: https://rpc.tzbeta.net/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 261
-lastUpdated: 2021-10-23T23:04:25.297Z
+responseTime: 219
+lastUpdated: 2021-10-24T23:04:32.259Z
 startTime: Thu Aug 26 2021 15:01:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
