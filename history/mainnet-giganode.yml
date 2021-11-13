@@ -1,7 +1,7 @@
 url: https://mainnet-tezos.giganode.io/chains/main/blocks/head
-status: up
-code: 200
-responseTime: 893
-lastUpdated: 2021-11-12T23:04:21.906Z
+status: down
+code: 502
+responseTime: 451
+lastUpdated: 2021-11-13T07:19:43.109Z
 startTime: Thu Aug 26 2021 15:01:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
