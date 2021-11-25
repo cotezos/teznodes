@@ -3,26 +3,33 @@ owner: cotezos # Your GitHub organization or username, where this repository liv
 repo: teznodes # The name of this repository
 
 sites:
-  - name: Mainnet Giganode 
+  - name: Mainnet Giganode [tezos Ukraine] 
     url: https://mainnet-tezos.giganode.io/chains/main/blocks/head
-  - name: Mainnet tez.ie 
+  - name: Mainnet tez.ie [ECAD Labs]
     url: https://api.tez.ie/rpc/mainnet/chains/main/blocks/head
-  - name: Mainnet Smartpy 
+  - name: Mainnet Smartpy
     url: https://mainnet.smartpy.io/chains/main/blocks/head/header
   - name: Mainnet Letsbake
     url: https://teznode.letzbake.com/chains/main/blocks/head/header
-  - name: Mainnet Tzbeta
+  
+  - name: Mainnet tzbeta.net [Blockscale]
     url: https://rpc.tzbeta.net/chains/main/blocks/head/header
   - name: Mainnet TezRPC
     url: https://mainnet.tezrpc.me/chains/main/blocks/head/header
-  - name: florencenet Tez.ie
+    
+  - name: florencenet tez.ie [ECAD Labs]
     url: https://api.tez.ie/rpc/florencenet/chains/main/blocks/head/header
-  - name: granadanet tez.io  
+    
+  - name: granadanet tez.ie [ECAD Labs]  
     url: https://api.tez.ie/rpc/granadanet/chains/main/blocks/head/header
   - name: granadanet Smartpy 
     url: https://granadanet.smartpy.io/chains/main/blocks/head/header
-  - name: Testnet Giganode 
+    
+  - name: Testnet Giganode [tezos Ukraine]
     url: https://testnet-tezos.giganode.io/chains/main/blocks/head/header
+  - name: testnet tzbeta.net [Blockscale]
+    url: https://rpczero.tzbeta.net/chains/main/blocks/head/header
+   
   - name: hangzhounet Smartpy
     url: https://hangzhounet.smartpy.io/chains/main/blocks/head/header
     
