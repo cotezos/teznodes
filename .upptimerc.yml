@@ -17,8 +17,8 @@ sites:
   - name: Mainnet TezRPC
     url: https://mainnet.tezrpc.me/chains/main/blocks/head/header
     
-  - name: florencenet tez.ie [ECAD Labs]
-    url: https://api.tez.ie/rpc/florencenet/chains/main/blocks/head/header
+#  - name: florencenet tez.ie [ECAD Labs]
+#    url: https://api.tez.ie/rpc/florencenet/chains/main/blocks/head/header
     
   - name: granadanet tez.ie [ECAD Labs]  
     url: https://api.tez.ie/rpc/granadanet/chains/main/blocks/head/header
