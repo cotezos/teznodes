@@ -211,18 +211,18 @@
     "icon": "https://favicons.githubusercontent.com/api.tez.ie",
     "slug": "florencenet-tez-ie-ecad-labs",
     "status": "down",
-    "uptime": "4.07%",
-    "uptimeDay": "4.07%",
-    "uptimeWeek": "4.07%",
-    "uptimeMonth": "4.07%",
-    "uptimeYear": "4.07%",
+    "uptime": "1.48%",
+    "uptimeDay": "1.48%",
+    "uptimeWeek": "1.48%",
+    "uptimeMonth": "1.48%",
+    "uptimeYear": "1.48%",
     "time": 222,
     "timeDay": 222,
     "timeWeek": 222,
     "timeMonth": 222,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2021-11-25": 0
+      "2021-11-25": 1
     }
   },
   {
