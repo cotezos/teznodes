@@ -1,7 +1,7 @@
 url: https://testnet-tezos.giganode.io/chains/main/blocks/head/header
 status: down
-code: 502
-responseTime: 373
-lastUpdated: 2021-12-04T05:59:33.559Z
+code: 0
+responseTime: 0
+lastUpdated: 2021-12-04T23:07:22.860Z
 startTime: Thu Nov 25 2021 14:25:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
