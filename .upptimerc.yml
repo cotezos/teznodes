@@ -32,6 +32,9 @@ sites:
    
   - name: hangzhounet Smartpy
     url: https://hangzhounet.smartpy.io/chains/main/blocks/head/header
+ 
+  - name: Mainnet [krypstar]
+    url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
     
 #   - name:
 #     url: 
