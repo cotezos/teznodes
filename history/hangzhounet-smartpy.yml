@@ -1,7 +1,7 @@
 url: https://hangzhounet.smartpy.io/chains/main/blocks/head/header
-status: down
-code: 502
-responseTime: 480
-lastUpdated: 2021-12-24T03:37:45.149Z
+status: up
+code: 200
+responseTime: 558
+lastUpdated: 2021-12-24T04:46:55.143Z
 startTime: Thu Sep 23 2021 15:11:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
