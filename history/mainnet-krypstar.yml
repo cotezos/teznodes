@@ -1,7 +1,7 @@
 url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 629
-lastUpdated: 2022-01-20T23:05:10.316Z
+status: down
+code: 521
+responseTime: 239
+lastUpdated: 2022-01-21T08:12:35.575Z
 startTime: Tue Dec 21 2021 15:00:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
