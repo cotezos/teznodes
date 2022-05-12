@@ -1,7 +1,7 @@
 url: https://teznode.letzbake.com/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 20562
-lastUpdated: 2022-05-11T23:07:33.606Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-05-12T08:51:16.224Z
 startTime: Tue Apr 26 2022 22:39:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
