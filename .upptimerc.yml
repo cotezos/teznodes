@@ -11,9 +11,12 @@ sites:
     url: https://mainnet.smartpy.io/chains/main/blocks/head/header
   - name: Mainnet Letsbake (teznode.letzbake.com)
     url: https://teznode.letzbake.com/chains/main/blocks/head/header
-  
-  - name: Mainnet tzbeta.net [Blockscale]
-    url: https://rpc.tzbeta.net/chains/main/blocks/head/header
+  - name: Mainnet [krypstar] (tezos-node.kryptstar.com)
+    url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
+
+
+#  - name: Mainnet tzbeta.net [Blockscale]
+#    url: https://rpc.tzbeta.net/chains/main/blocks/head/header
 #  - name: Mainnet TezRPC (mainnet.tezrpc.me)
 #    url: https://mainnet.tezrpc.me/chains/main/blocks/head/header
     
@@ -30,11 +33,9 @@ sites:
   - name: testnet tzbeta.net [Blockscale] (rpczero.tzbeta.net)
     url: https://rpczero.tzbeta.net/chains/main/blocks/head/header
    
-  - name: hangzhounet Smartpy (hangzhounet.smartpy.io)
-    url: https://hangzhounet.smartpy.io/chains/main/blocks/head/header
+  # - name: hangzhounet Smartpy (hangzhounet.smartpy.io)
+  #   url: https://hangzhounet.smartpy.io/chains/main/blocks/head/header
  
-  - name: Mainnet [krypstar] (tezos-node.kryptstar.com)
-    url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
 
 
 
