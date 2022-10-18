@@ -8,8 +8,6 @@ sites:
     url: https://api.tez.ie/rpc/mainnet/chains/main/blocks/head
   - name: Mainnet Smartpy (mainnet.smartpy.io)
     url: https://mainnet.smartpy.io/chains/main/blocks/head/header
-  - name: Mainnet Letsbake (teznode.letzbake.com)
-    url: https://teznode.letzbake.com/chains/main/blocks/head/header
   - name: Mainnet [krypstar] (tezos-node.kryptstar.com)
     url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
   - name: Mainnet [Marigold] (mainnet.tezos.marigold.dev)
@@ -21,6 +19,8 @@ sites:
 #    url: https://mainnet.tezrpc.me/chains/main/blocks/head/header
 #  - name: Mainnet Giganode [tezos Ukraine ](mainnet-tezos.giganode.io)
 #    url: https://mainnet-tezos.giganode.io/chains/main/blocks/head
+#  - name: Mainnet Letsbake (teznode.letzbake.com)
+#    url: https://teznode.letzbake.com/chains/main/blocks/head/header
 
 # Ghostnet
   - name: Ghostnet [ECAD Labs] (ghostnet.ecadinfra.com)
