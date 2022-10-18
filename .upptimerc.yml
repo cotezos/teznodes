@@ -3,8 +3,7 @@ owner: cotezos # Your GitHub organization or username, where this repository liv
 repo: teznodes # The name of this repository
 
 sites:
-#  - name: Mainnet Giganode [tezos Ukraine ](mainnet-tezos.giganode.io)
-#    url: https://mainnet-tezos.giganode.io/chains/main/blocks/head
+# Mainnet
   - name: Mainnet tez.ie [ECAD Labs] (api.tez.ie/rpc/mainnet)
     url: https://api.tez.ie/rpc/mainnet/chains/main/blocks/head
   - name: Mainnet Smartpy (mainnet.smartpy.io)
@@ -20,16 +19,20 @@ sites:
 #    url: https://rpc.tzbeta.net/chains/main/blocks/head/header
 #  - name: Mainnet TezRPC (mainnet.tezrpc.me)
 #    url: https://mainnet.tezrpc.me/chains/main/blocks/head/header
+#  - name: Mainnet Giganode [tezos Ukraine ](mainnet-tezos.giganode.io)
+#    url: https://mainnet-tezos.giganode.io/chains/main/blocks/head
 
-   - name: Ghostnet [ECAD Labs] (ghostnet.ecadinfra.com)
+# Ghostnet
+  - name: Ghostnet [ECAD Labs] (ghostnet.ecadinfra.com)
     url:   https://ghostnet.ecadinfra.com/chains/main/blocks/head/header
-   - name: Ghostnet [SmartPy] (ghostnet.smartpy.io)
+  - name: Ghostnet [SmartPy] (ghostnet.smartpy.io)
     url:   https://ghostnet.smartpy.io/chains/main/blocks/head/header
-   - name: Ghostnet [Marigold] (ghostnet.tezos.marigold.dev)
+  - name: Ghostnet [Marigold] (ghostnet.tezos.marigold.dev)
     url:   https://ghostnet.tezos.marigold.dev/chains/main/blocks/head/header
 
-
-
+# Testnets
+  - name: testnet tzbeta.net [Blockscale] (rpczero.tzbeta.net)
+    url: https://rpczero.tzbeta.net/chains/main/blocks/head/header
 
 #  - name: florencenet tez.ie [ECAD Labs] (api.tez.ie/rpc/florencenet)
 #    url: https://api.tez.ie/rpc/florencenet/chains/main/blocks/head/header
@@ -41,14 +44,12 @@ sites:
     
 #  - name: Testnet Giganode [tezos Ukraine] (testnet-tezos.giganode.io)
 #    url: https://testnet-tezos.giganode.io/chains/main/blocks/head/header
-  - name: testnet tzbeta.net [Blockscale] (rpczero.tzbeta.net)
-    url: https://rpczero.tzbeta.net/chains/main/blocks/head/header
    
-  # - name: hangzhounet Smartpy (hangzhounet.smartpy.io)
-  #   url: https://hangzhounet.smartpy.io/chains/main/blocks/head/header
+# - name: hangzhounet Smartpy (hangzhounet.smartpy.io)
+#   url: https://hangzhounet.smartpy.io/chains/main/blocks/head/header
+
 #    - name: Xnet [] ()
 #     url:  
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
