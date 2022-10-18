@@ -23,12 +23,12 @@ sites:
 #    url: https://mainnet-tezos.giganode.io/chains/main/blocks/head
 
 # Ghostnet
-   - name: Ghostnet [ECAD Labs] (ghostnet.ecadinfra.com)
-     url:   https://ghostnet.ecadinfra.com/chains/main/blocks/head/header
-   - name: Ghostnet [SmartPy] (ghostnet.smartpy.io)
-     url:   https://ghostnet.smartpy.io/chains/main/blocks/head/header
-   - name: Ghostnet [Marigold] (ghostnet.tezos.marigold.dev)
-     url:   https://ghostnet.tezos.marigold.dev/chains/main/blocks/head/header
+  - name: Ghostnet [ECAD Labs] (ghostnet.ecadinfra.com)
+    url:   https://ghostnet.ecadinfra.com/chains/main/blocks/head/header
+  - name: Ghostnet [SmartPy] (ghostnet.smartpy.io)
+    url:   https://ghostnet.smartpy.io/chains/main/blocks/head/header
+  - name: Ghostnet [Marigold] (ghostnet.tezos.marigold.dev)
+    url:   https://ghostnet.tezos.marigold.dev/chains/main/blocks/head/header
 
 # Testnets
   - name: testnet tzbeta.net [Blockscale] (rpczero.tzbeta.net)
@@ -50,10 +50,6 @@ sites:
 
 #    - name: Xnet [] ()
 #     url:  
-
-
-
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
