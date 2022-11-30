@@ -3,6 +3,8 @@ owner: cotezos # Your GitHub organization or username, where this repository liv
 repo: teznodes # The name of this repository
 
 sites:
+# Taquito maintains a list here : https://tezostaquito.io/docs/rpc_nodes/ but not automated to here (yet?)
+
 # Mainnet
   - name: Mainnet tez.ie [ECAD Labs] (api.tez.ie/rpc/mainnet)
     url: https://api.tez.ie/rpc/mainnet/chains/main/blocks/head
@@ -12,7 +14,10 @@ sites:
     url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
   - name: Mainnet [Marigold] (mainnet.tezos.marigold.dev)
     url:  https://mainnet.tezos.marigold.dev/chains/main/blocks/head/header
-
+  - name: Mainnet [TezTools] (eu01-node.teztools.net)
+    url: https://eu01-node.teztools.net/chains/main/blocks/head/header
+    
+    
 #  - name: Mainnet tzbeta.net [Blockscale]
 #    url: https://rpc.tzbeta.net/chains/main/blocks/head/header
 #  - name: Mainnet TezRPC (mainnet.tezrpc.me)
