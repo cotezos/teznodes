@@ -156,19 +156,19 @@
     "url": "https://eu01-node.teztools.net/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/eu01-node.teztools.net.ico",
     "slug": "mainnet-tez-tools-eu01-node-teztools-net",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 444,
-    "timeDay": 409,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
+    "time": 433,
+    "timeDay": 381,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2022-12-04": 29
+      "2022-12-04": 47
     }
   },
   {
