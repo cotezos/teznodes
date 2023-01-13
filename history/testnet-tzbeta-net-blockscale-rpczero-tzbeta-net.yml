@@ -1,7 +1,7 @@
 url: https://rpczero.tzbeta.net/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 666
-lastUpdated: 2023-01-12T23:07:16.060Z
+status: down
+code: 500
+responseTime: 15444
+lastUpdated: 2023-01-13T17:39:34.053Z
 startTime: Tue Apr 26 2022 22:39:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
