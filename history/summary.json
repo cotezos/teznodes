@@ -100,7 +100,7 @@
     "timeMonth": 125,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2023-03-17": 393,
+      "2023-03-17": 412,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
@@ -270,19 +270,19 @@
     "url": "https://eu01-node.teztools.net/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/eu01-node.teztools.net.ico",
     "slug": "mainnet-tez-tools-eu01-node-teztools-net",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "76.99%",
-    "uptimeWeek": "92.15%",
-    "uptimeMonth": "97.13%",
-    "uptimeYear": "98.26%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "76.92%",
+    "uptimeWeek": "92.14%",
+    "uptimeMonth": "97.12%",
+    "uptimeYear": "98.28%",
     "time": 393,
     "timeDay": 380,
     "timeWeek": 381,
     "timeMonth": 390,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-03-17": 138,
+      "2023-03-17": 139,
       "2023-03-16": 295,
       "2023-03-15": 139,
       "2023-03-14": 105,
@@ -311,7 +311,7 @@
       "2023-02-05": 18,
       "2023-02-04": 22,
       "2023-02-03": 44,
-      "2023-02-02": 189
+      "2023-02-02": 163
     }
   },
   {
@@ -401,7 +401,7 @@
     "timeMonth": 15003,
     "timeYear": 3600,
     "dailyMinutesDown": {
-      "2023-03-17": 393,
+      "2023-03-17": 412,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
       "2023-03-14": 1440,
