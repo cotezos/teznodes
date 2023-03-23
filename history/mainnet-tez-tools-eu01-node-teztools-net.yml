@@ -1,7 +1,7 @@
 url: https://eu01-node.teztools.net/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2023-03-23T16:11:12.301Z
+status: down
+code: 502
+responseTime: 138
+lastUpdated: 2023-03-23T16:56:05.133Z
 startTime: Wed Nov 30 2022 13:27:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
