@@ -14,10 +14,9 @@ sites:
     url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
   - name: Mainnet [Marigold] (mainnet.tezos.marigold.dev)
     url:  https://mainnet.tezos.marigold.dev/chains/main/blocks/head/header
-  - name: Mainnet [TezTools] (eu01-node.teztools.net)
-    url: https://eu01-node.teztools.net/chains/main/blocks/head/header
-    
-    
+
+# - name: Mainnet [TezTools] (eu01-node.teztools.net)
+#   url: https://eu01-node.teztools.net/chains/main/blocks/head/header    
 #  - name: Mainnet tzbeta.net [Blockscale]
 #    url: https://rpc.tzbeta.net/chains/main/blocks/head/header
 #  - name: Mainnet TezRPC (mainnet.tezrpc.me)
