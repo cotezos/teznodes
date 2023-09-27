@@ -14,7 +14,7 @@
     "timeDay": 285,
     "timeWeek": 656,
     "timeMonth": 2621,
-    "timeYear": 1697,
+    "timeYear": 1698,
     "dailyMinutesDown": {
       "2023-03-30": 179,
       "2023-03-29": 67,
@@ -34,18 +34,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
     "slug": "mainnet-smartpy-mainnet-smartpy-io",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.43%",
+    "uptime": "99.60%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.44%",
     "time": 3229,
     "timeDay": 1943,
     "timeWeek": 861,
     "timeMonth": 838,
-    "timeYear": 2426,
+    "timeYear": 2429,
     "dailyMinutesDown": {
-      "2023-09-26": 30,
+      "2023-09-26": 24,
       "2023-09-21": 33,
       "2023-09-19": 24,
       "2023-09-15": 23,
@@ -119,7 +119,8 @@
       "2023-03-28": 58,
       "2023-03-24": 18,
       "2023-03-17": 36,
-      "2023-03-15": 16
+      "2023-03-15": 16,
+      "2023-03-14": 23
     }
   },
   {
@@ -128,18 +129,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tezos-node.kryptstar.com.ico",
     "slug": "mainnet-krypstar-tezos-node-kryptstar-com",
     "status": "down",
-    "uptime": "41.24%",
+    "uptime": "41.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "18.38%",
+    "uptimeYear": "18.37%",
     "time": 188,
     "timeDay": 130,
     "timeWeek": 118,
     "timeMonth": 132,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2023-09-26": 1386,
+      "2023-09-27": 29,
+      "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
@@ -615,7 +617,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rpczero.tzbeta.net.ico",
     "slug": "testnet-tzbeta-net-blockscale-rpczero-tzbeta-net",
     "status": "down",
-    "uptime": "45.35%",
+    "uptime": "45.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -624,9 +626,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 10255,
+    "timeYear": 10284,
     "dailyMinutesDown": {
-      "2023-09-26": 1386,
+      "2023-09-27": 29,
+      "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
@@ -897,8 +900,7 @@
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
-      "2022-09-28": 1440,
-      "2022-09-27": 1440
+      "2022-09-28": 1440
     }
   }
 ]
