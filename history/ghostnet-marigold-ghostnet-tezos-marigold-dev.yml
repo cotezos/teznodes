@@ -1,7 +1,7 @@
 url: https://ghostnet.tezos.marigold.dev/chains/main/blocks/head/header
-status: down
-code: 503
-responseTime: 356
-lastUpdated: 2023-09-30T23:58:02.831Z
+status: up
+code: 200
+responseTime: 679
+lastUpdated: 2023-10-01T01:15:39.327Z
 startTime: 2022-10-18T20:47:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
