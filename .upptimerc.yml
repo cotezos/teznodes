@@ -35,8 +35,8 @@ sites:
     url:   https://ghostnet.tezos.marigold.dev/chains/main/blocks/head/header
 
 # Testnets
-  - name: testnet tzbeta.net [Blockscale] (rpczero.tzbeta.net)
-    url: https://rpczero.tzbeta.net/chains/main/blocks/head/header
+#   - name: testnet tzbeta.net [Blockscale] (rpczero.tzbeta.net)
+#     url: https://rpczero.tzbeta.net/chains/main/blocks/head/header
 
 #  - name: florencenet tez.ie [ECAD Labs] (api.tez.ie/rpc/florencenet)
 #    url: https://api.tez.ie/rpc/florencenet/chains/main/blocks/head/header
