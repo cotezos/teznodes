@@ -1,7 +1,7 @@
 url: https://api.tez.ie/rpc/mainnet/chains/main/blocks/head
 status: up
 code: 200
-responseTime: 1033
-lastUpdated: 2023-10-14T23:05:09.482Z
+responseTime: 970
+lastUpdated: 2023-10-15T23:05:32.974Z
 startTime: 2022-04-26T22:39:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
