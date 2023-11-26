@@ -1,7 +1,7 @@
 url: https://mainnet.tezos.marigold.dev/chains/main/blocks/head/header
-status: down
-code: 503
-responseTime: 618
-lastUpdated: 2023-11-26T13:24:26.497Z
+status: up
+code: 200
+responseTime: 662
+lastUpdated: 2023-11-26T13:33:27.743Z
 startTime: 2022-10-18T20:47:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
