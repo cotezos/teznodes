@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1724,
-    "timeDay": 818,
-    "timeWeek": 861,
-    "timeMonth": 836,
-    "timeYear": 1771,
+    "time": 1718,
+    "timeDay": 645,
+    "timeWeek": 810,
+    "timeMonth": 830,
+    "timeYear": 1768,
     "dailyMinutesDown": {
       "2023-10-18": 279,
       "2023-10-14": 43,
@@ -33,12 +33,12 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.82%",
+    "uptimeWeek": "90.21%",
     "uptimeMonth": "96.33%",
     "uptimeYear": "99.49%",
     "time": 2789,
-    "timeDay": 377,
-    "timeWeek": 1340,
+    "timeDay": 537,
+    "timeWeek": 1266,
     "timeMonth": 1067,
     "timeYear": 2078,
     "dailyMinutesDown": {
@@ -104,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tezos-node.kryptstar.com.ico",
     "slug": "mainnet-krypstar-tezos-node-kryptstar-com",
     "status": "down",
-    "uptime": "35.59%",
+    "uptime": "35.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -115,7 +115,8 @@
     "timeMonth": 18586,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2023-12-18": 204,
+      "2023-12-19": 32,
+      "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
@@ -478,8 +479,7 @@
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
-      "2022-12-20": 1440,
-      "2022-12-19": 1440
+      "2022-12-20": 1440
     }
   },
   {
@@ -489,13 +489,13 @@
     "slug": "mainnet-marigold-mainnet-tezos-marigold-dev",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "93.05%",
+    "uptimeDay": "95.46%",
     "uptimeWeek": "98.56%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.59%",
-    "time": 731,
-    "timeDay": 409,
-    "timeWeek": 480,
+    "time": 730,
+    "timeDay": 403,
+    "timeWeek": 478,
     "timeMonth": 463,
     "timeYear": 755,
     "dailyMinutesDown": {
@@ -539,8 +539,7 @@
       "2023-02-20": 16,
       "2023-02-18": 18,
       "2023-01-16": 19,
-      "2023-01-12": 74,
-      "2022-12-19": 177
+      "2023-01-12": 74
     }
   },
   {
@@ -554,9 +553,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.40%",
-    "time": 1171,
-    "timeDay": 214,
-    "timeWeek": 150,
+    "time": 1169,
+    "timeDay": 216,
+    "timeWeek": 157,
     "timeMonth": 651,
     "timeYear": 1311,
     "dailyMinutesDown": {
@@ -588,9 +587,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.89%",
     "time": 288,
-    "timeDay": 372,
-    "timeWeek": 544,
-    "timeMonth": 339,
+    "timeDay": 347,
+    "timeWeek": 541,
+    "timeMonth": 346,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2023-12-15": 22,
@@ -631,13 +630,13 @@
     "slug": "ghostnet-marigold-ghostnet-tezos-marigold-dev",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.78%",
     "time": 567,
-    "timeDay": 465,
-    "timeWeek": 429,
+    "timeDay": 463,
+    "timeWeek": 434,
     "timeMonth": 446,
     "timeYear": 584,
     "dailyMinutesDown": {
@@ -654,8 +653,7 @@
       "2023-04-06": 55,
       "2023-04-05": 16,
       "2023-04-02": 190,
-      "2023-02-24": 17,
-      "2022-12-19": 135
+      "2023-02-24": 17
     }
   }
 ]
