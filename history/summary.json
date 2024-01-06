@@ -14,7 +14,7 @@
     "timeDay": 1936,
     "timeWeek": 2609,
     "timeMonth": 1287,
-    "timeYear": 1679,
+    "timeYear": 1680,
     "dailyMinutesDown": {
       "2024-01-01": 22,
       "2023-10-18": 279,
@@ -32,18 +32,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
     "slug": "mainnet-smartpy-mainnet-smartpy-io",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "96.41%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.69%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "96.22%",
+    "uptimeYear": "99.47%",
     "time": 2757,
     "timeDay": 534,
     "timeWeek": 506,
     "timeMonth": 1039,
     "timeYear": 2078,
     "dailyMinutesDown": {
-      "2024-01-05": 2,
+      "2024-01-06": 31,
+      "2024-01-05": 54,
       "2023-12-24": 22,
       "2023-12-16": 459,
       "2023-12-15": 228,
@@ -105,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tezos-node.kryptstar.com.ico",
     "slug": "mainnet-krypstar-tezos-node-kryptstar-com",
     "status": "down",
-    "uptime": "34.51%",
+    "uptime": "34.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -116,7 +117,8 @@
     "timeMonth": 0,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2024-01-05": 1388,
+      "2024-01-06": 31,
+      "2024-01-05": 1440,
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
@@ -479,8 +481,7 @@
       "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
-      "2023-01-07": 1440,
-      "2023-01-06": 1440
+      "2023-01-07": 1440
     }
   },
   {
