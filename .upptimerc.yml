@@ -10,11 +10,14 @@ sites:
     url: https://api.tez.ie/rpc/mainnet/chains/main/blocks/head
   - name: Mainnet Smartpy (mainnet.smartpy.io)
     url: https://mainnet.smartpy.io/chains/main/blocks/head/header
-  - name: Mainnet [krypstar] (tezos-node.kryptstar.com)
-    url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
+
+#  - name: Mainnet [krypstar] (tezos-node.kryptstar.com)
+#    url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
   - name: Mainnet [Marigold] (mainnet.tezos.marigold.dev)
     url:  https://mainnet.tezos.marigold.dev/chains/main/blocks/head/header
-
+  - name: Mainnet [Tezos Foundation] (rpc.tzbeta.net)
+    url: 	https://rpc.tzbeta.net/
+  
 # - name: Mainnet [TezTools] (eu01-node.teztools.net)
 #   url: https://eu01-node.teztools.net/chains/main/blocks/head/header    
 #  - name: Mainnet tzbeta.net [Blockscale]
