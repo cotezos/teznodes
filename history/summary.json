@@ -27,18 +27,19 @@
     "url": "https://mainnet.smartpy.io/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
     "slug": "mainnet-smartpy-mainnet-smartpy-io",
-    "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "98.77%",
+    "status": "down",
+    "uptime": "98.32%",
+    "uptimeDay": "98.75%",
     "uptimeWeek": "82.60%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "96.69%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "96.70%",
     "time": 1782,
-    "timeDay": 495,
-    "timeWeek": 546,
-    "timeMonth": 587,
+    "timeDay": 515,
+    "timeWeek": 547,
+    "timeMonth": 590,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2024-04-12": 0,
       "2024-04-11": 18,
       "2024-04-10": 18,
       "2024-04-09": 1087,
@@ -97,7 +98,7 @@
       "2023-12-11": 273,
       "2023-12-10": 141,
       "2023-12-09": 27,
-      "2023-12-08": 89
+      "2023-12-08": 74
     }
   },
   {
@@ -187,7 +188,7 @@
     "time": 1108,
     "timeDay": 122,
     "timeWeek": 176,
-    "timeMonth": 687,
+    "timeMonth": 693,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2024-03-22": 178,
