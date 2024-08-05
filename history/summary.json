@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2024-08-05": 37,
+      "2024-08-05": 45,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
@@ -62,18 +62,19 @@
     "url": "https://mainnet.smartpy.io/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
     "slug": "mainnet-smartpy-mainnet-smartpy-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.79%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.78%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "98.75%",
-    "time": 710,
-    "timeDay": 553,
-    "timeWeek": 563,
+    "time": 711,
+    "timeDay": 566,
+    "timeWeek": 564,
     "timeMonth": 596,
-    "timeYear": 693,
+    "timeYear": 692,
     "dailyMinutesDown": {
+      "2024-08-05": 1,
       "2024-08-02": 51,
       "2024-07-31": 43,
       "2024-07-30": 27,
@@ -148,8 +149,7 @@
       "2024-03-28": 23,
       "2024-03-24": 32,
       "2024-03-21": 23,
-      "2024-03-20": 38,
-      "2024-03-19": 18
+      "2024-03-20": 38
     }
   },
   {
@@ -169,7 +169,7 @@
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-08-05": 37,
+      "2024-08-05": 45,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
@@ -383,7 +383,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghostnet.tezos.marigold.dev.ico",
     "slug": "ghostnet-marigold-ghostnet-tezos-marigold-dev",
     "status": "down",
-    "uptime": "88.64%",
+    "uptime": "88.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -394,7 +394,7 @@
     "timeMonth": 0,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2024-08-05": 37,
+      "2024-08-05": 45,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
