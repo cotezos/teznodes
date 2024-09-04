@@ -1,7 +1,7 @@
 url: https://ghostnet.smartpy.io/chains/main/blocks/head/header
-status: down
-code: 502
-responseTime: 562
-lastUpdated: 2024-09-04T08:00:04.641Z
+status: up
+code: 200
+responseTime: 558
+lastUpdated: 2024-09-04T08:27:14.672Z
 startTime: 2022-10-18T20:47:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
