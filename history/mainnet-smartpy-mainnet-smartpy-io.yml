@@ -1,7 +1,7 @@
 url: https://mainnet.smartpy.io/chains/main/blocks/head/header
-status: down
-code: 502
-responseTime: 422
-lastUpdated: 2024-09-04T16:00:03.581Z
+status: up
+code: 200
+responseTime: 560
+lastUpdated: 2024-09-04T16:27:40.176Z
 startTime: 2022-04-26T22:39:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
