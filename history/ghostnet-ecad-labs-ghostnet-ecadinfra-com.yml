@@ -1,7 +1,7 @@
 url: https://ghostnet.ecadinfra.com/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 187
-lastUpdated: 2024-10-02T23:09:15.006Z
+status: down
+code: 503
+responseTime: 3227
+lastUpdated: 2024-10-03T10:13:15.498Z
 startTime: 2022-10-18T20:47:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
