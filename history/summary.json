@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1188,
     "dailyMinutesDown": {
-      "2024-10-08": 437,
+      "2024-10-08": 460,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -126,19 +126,19 @@
     "url": "https://mainnet.smartpy.io/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
     "slug": "mainnet-smartpy-mainnet-smartpy-io",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "98.38%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.37%",
     "uptimeMonth": "83.19%",
     "uptimeYear": "97.47%",
     "time": 684,
-    "timeDay": 561,
-    "timeWeek": 561,
-    "timeMonth": 646,
+    "timeDay": 611,
+    "timeWeek": 572,
+    "timeMonth": 647,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-10-08": 19,
+      "2024-10-08": 20,
       "2024-10-07": 22,
       "2024-10-06": 46,
       "2024-10-01": 110,
@@ -216,8 +216,7 @@
       "2024-05-25": 27,
       "2024-05-24": 37,
       "2024-05-23": 19,
-      "2024-05-22": 40,
-      "2024-05-19": 16
+      "2024-05-22": 40
     }
   },
   {
@@ -226,7 +225,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.tezos.marigold.dev.ico",
     "slug": "mainnet-marigold-mainnet-tezos-marigold-dev",
     "status": "down",
-    "uptime": "80.74%",
+    "uptime": "80.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -237,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-10-08": 437,
+      "2024-10-08": 460,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -462,7 +461,7 @@
     "time": 417,
     "timeDay": 210,
     "timeWeek": 382,
-    "timeMonth": 501,
+    "timeMonth": 507,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2024-09-21": 30,
@@ -520,7 +519,7 @@
     "timeMonth": 0,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2024-10-08": 437,
+      "2024-10-08": 461,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
