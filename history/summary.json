@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2024-10-15": 1012,
+      "2024-10-15": 1021,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -131,19 +131,19 @@
     "url": "https://mainnet.smartpy.io/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
     "slug": "mainnet-smartpy-mainnet-smartpy-io",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "89.90%",
-    "uptimeWeek": "94.40%",
-    "uptimeMonth": "82.17%",
-    "uptimeYear": "97.41%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "89.82%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "82.16%",
+    "uptimeYear": "97.59%",
     "time": 675,
-    "timeDay": 646,
-    "timeWeek": 617,
-    "timeMonth": 646,
+    "timeDay": 639,
+    "timeWeek": 616,
+    "timeMonth": 645,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-10-15": 146,
+      "2024-10-15": 147,
       "2024-10-14": 56,
       "2024-10-12": 118,
       "2024-10-10": 150,
@@ -215,9 +215,7 @@
       "2024-06-11": 16,
       "2024-06-09": 19,
       "2024-06-08": 21,
-      "2024-06-07": 18,
-      "2024-06-05": 851,
-      "2024-06-04": 106
+      "2024-06-07": 18
     }
   },
   {
@@ -237,7 +235,7 @@
     "timeMonth": 0,
     "timeYear": 445,
     "dailyMinutesDown": {
-      "2024-10-15": 1012,
+      "2024-10-15": 1021,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -527,7 +525,7 @@
     "timeMonth": 0,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-10-15": 1013,
+      "2024-10-15": 1021,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
