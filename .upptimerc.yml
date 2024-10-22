@@ -8,7 +8,7 @@ sites:
 
 # Mainnet
   - name: Mainnet tez.ie [ECAD Labs] (api.tez.ie/rpc/mainnet)
-    url: https://api.tez.ie/rpc/mainnet/chains/main/blocks/head
+    url: https://mainnet.api.tez.ie/chains/main/blocks/head/header
   - name: Mainnet Smartpy (mainnet.smartpy.io)
     url: https://mainnet.smartpy.io/chains/main/blocks/head/header
 
