@@ -4,6 +4,7 @@ repo: teznodes # The name of this repository
 
 sites:
 # Taquito maintains a list here : https://tezostaquito.io/docs/rpc_nodes/ but not automated to here (yet?)
+# another source is the https://teztnets.com/teztnets.json rpc_urls (easier to automate, but less values)
 
 # Mainnet
   - name: Mainnet tez.ie [ECAD Labs] (api.tez.ie/rpc/mainnet)
@@ -13,8 +14,8 @@ sites:
 
 #  - name: Mainnet [krypstar] (tezos-node.kryptstar.com)
 #    url: https://tezos-node.kryptstar.com/chains/main/blocks/head/header
-  - name: Mainnet [Marigold] (mainnet.tezos.marigold.dev)
-    url:  https://mainnet.tezos.marigold.dev/chains/main/blocks/head/header
+#  - name: Mainnet [Marigold] (mainnet.tezos.marigold.dev)
+#    url:  https://mainnet.tezos.marigold.dev/chains/main/blocks/head/header
   - name: Mainnet [Tezos Foundation] (rpc.tzbeta.net)
     url: 	https://rpc.tzbeta.net/
   
@@ -34,8 +35,10 @@ sites:
     url:   https://ghostnet.ecadinfra.com/chains/main/blocks/head/header
   - name: Ghostnet [SmartPy] (ghostnet.smartpy.io)
     url:   https://ghostnet.smartpy.io/chains/main/blocks/head/header
-  - name: Ghostnet [Marigold] (ghostnet.tezos.marigold.dev)
-    url:   https://ghostnet.tezos.marigold.dev/chains/main/blocks/head/header
+  - name: Ghostnet [Tezos Foundatiion] (rpc.ghostnet.teztnets.com/)
+    url: https://rpc.ghostnet.teztnets.com/chains/main/blocks/head/header
+#  - name: Ghostnet [Marigold] (ghostnet.tezos.marigold.dev)
+#    url:   https://ghostnet.tezos.marigold.dev/chains/main/blocks/head/header
 
 # Testnets
 #   - name: testnet tzbeta.net [Blockscale] (rpczero.tzbeta.net)
