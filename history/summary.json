@@ -26,7 +26,7 @@
     "uptime": "87.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.91%",
+    "uptimeMonth": "55.95%",
     "uptimeYear": "69.71%",
     "time": 1300,
     "timeDay": 171,
@@ -155,9 +155,9 @@
     "url": "https://mainnet.smartpy.io/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
     "slug": "mainnet-smartpy-mainnet-smartpy-io",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "16.26%",
+    "uptimeDay": "16.25%",
     "uptimeWeek": "86.71%",
     "uptimeMonth": "90.27%",
     "uptimeYear": "96.93%",
@@ -239,8 +239,7 @@
       "2024-06-25": 52,
       "2024-06-22": 34,
       "2024-06-21": 16,
-      "2024-06-19": 72,
-      "2024-06-17": 17
+      "2024-06-19": 72
     }
   },
   {
