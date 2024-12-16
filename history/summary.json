@@ -165,7 +165,7 @@
     "timeDay": 300,
     "timeWeek": 296,
     "timeMonth": 289,
-    "timeYear": 610,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-11-27": 213,
       "2024-11-12": 28,
@@ -269,9 +269,9 @@
     "url": "https://ghostnet.ecadinfra.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/ghostnet.ecadinfra.com.ico",
     "slug": "ghostnet-ecad-labs-ghostnet-ecadinfra-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.92%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.02%",
@@ -281,6 +281,7 @@
     "timeMonth": 205,
     "timeYear": 399,
     "dailyMinutesDown": {
+      "2024-12-16": 0,
       "2024-12-13": 310,
       "2024-10-03": 449,
       "2024-08-26": 1151,
