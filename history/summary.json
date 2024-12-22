@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 161,
-    "timeWeek": 221,
-    "timeMonth": 199,
+    "timeDay": 165,
+    "timeWeek": 211,
+    "timeMonth": 200,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.api.tez.ie.ico",
     "slug": "mainnet-tez-ie-ecad-labs-api-tez-ie-rpc-mainnet",
     "status": "up",
-    "uptime": "88.45%",
+    "uptime": "88.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "69.71%",
-    "time": 995,
-    "timeDay": 178,
-    "timeWeek": 193,
+    "time": 994,
+    "timeDay": 261,
+    "timeWeek": 167,
     "timeMonth": 204,
-    "timeYear": 778,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2024-10-22": 489,
       "2024-10-21": 1440,
@@ -162,9 +162,9 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "96.68%",
     "time": 661,
-    "timeDay": 329,
-    "timeWeek": 305,
-    "timeMonth": 287,
+    "timeDay": 392,
+    "timeWeek": 308,
+    "timeMonth": 294,
     "timeYear": 612,
     "dailyMinutesDown": {
       "2024-11-27": 213,
@@ -257,8 +257,8 @@
     "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 364,
-    "timeWeek": 364,
-    "timeMonth": 400,
+    "timeWeek": 347,
+    "timeMonth": 395,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2024-01-23": 0
@@ -276,9 +276,9 @@
     "uptimeMonth": "98.95%",
     "uptimeYear": "98.99%",
     "time": 399,
-    "timeDay": 230,
+    "timeDay": 213,
     "timeWeek": 2336,
-    "timeMonth": 780,
+    "timeMonth": 783,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2024-12-16": 149,
@@ -308,10 +308,10 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.48%",
     "time": 450,
-    "timeDay": 338,
-    "timeWeek": 318,
-    "timeMonth": 293,
-    "timeYear": 524,
+    "timeDay": 265,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2024-11-27": 213,
       "2024-10-22": 29,
@@ -342,8 +342,7 @@
       "2024-01-05": 93,
       "2024-01-04": 77,
       "2023-12-30": 18,
-      "2023-12-25": 18,
-      "2023-12-23": 48
+      "2023-12-25": 18
     }
   },
   {
@@ -357,11 +356,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 427,
-    "timeDay": 950,
-    "timeWeek": 333,
-    "timeMonth": 354,
-    "timeYear": 427,
+    "time": 432,
+    "timeDay": 723,
+    "timeWeek": 393,
+    "timeMonth": 368,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   }
 ]
