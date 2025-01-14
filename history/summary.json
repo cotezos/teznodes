@@ -164,7 +164,7 @@
     "timeDay": 337,
     "timeWeek": 283,
     "timeMonth": 303,
-    "timeYear": 607,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2024-11-27": 213,
       "2024-11-12": 28,
@@ -343,17 +343,17 @@
     "url": "https://rpc.ghostnet.teztnets.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.ghostnet.teztnets.com.ico",
     "slug": "ghostnet-tezos-foundatiion-rpc-ghostnet-teztnets-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 202,
-    "timeWeek": 362,
-    "timeMonth": 435,
-    "timeYear": 437,
+    "time": 435,
+    "timeDay": 199,
+    "timeWeek": 348,
+    "timeMonth": 428,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   }
 ]
