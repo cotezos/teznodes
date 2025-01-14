@@ -343,17 +343,17 @@
     "url": "https://rpc.ghostnet.teztnets.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.ghostnet.teztnets.com.ico",
     "slug": "ghostnet-tezos-foundatiion-rpc-ghostnet-teztnets-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 223,
-    "timeWeek": 329,
-    "timeMonth": 413,
-    "timeYear": 428,
+    "time": 426,
+    "timeDay": 226,
+    "timeWeek": 325,
+    "timeMonth": 409,
+    "timeYear": 426,
     "dailyMinutesDown": {}
   }
 ]
