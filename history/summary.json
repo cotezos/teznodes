@@ -4,19 +4,19 @@
     "url": "https://mainnet.ecadinfra.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.ecadinfra.com.ico",
     "slug": "mainnet-ecadinfra-ecad-labs-mainnet-ecadinfra-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 288,
-    "timeWeek": 290,
-    "timeMonth": 223,
-    "timeYear": 213,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 212,
+    "timeDay": 213,
+    "timeWeek": 271,
+    "timeMonth": 220,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-02-06": 0
+      "2025-02-06": 17
     }
   },
   {
