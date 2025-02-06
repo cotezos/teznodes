@@ -4,9 +4,9 @@
     "url": "https://mainnet.ecadinfra.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.ecadinfra.com.ico",
     "slug": "mainnet-ecadinfra-ecad-labs-mainnet-ecadinfra-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 290,
     "timeMonth": 223,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   },
   {
     "name": "Mainnet tez.ie [ECAD Labs?] (api.tez.ie/rpc/mainnet)",
