@@ -1,0 +1,47 @@
+# Change these first
+owner: cotezos # Your GitHub organization or username, where this repository lives
+repo: teznodes # The name of this repository
+
+sites:
+# Taquito maintains a list here : https://tezostaquito.io/docs/rpc_nodes/ but not automated to here (yet?)
+# another source is the https://teztnets.com/teztnets.json rpc_urls (easier to automate, but less values)
+
+- name: mainnet [ecadinfra] (https://mainnet.tezos.ecadinfra.com)
+  url: https://mainnet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: ghostnet [ecadinfra] (https://ghostnet.tezos.ecadinfra.com)
+  url: https://ghostnet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: mainnet [smartpy] (https://mainnet.smartpy.io)
+  url: https://mainnet.smartpy.io/chains/main/blocks/head/header
+- name: ghostnet [smartpy] (https://ghostnet.smartpy.io)
+  url: https://ghostnet.smartpy.io/chains/main/blocks/head/header
+- name: mainnet [tezosfoundation] (https://rpc.tzbeta.net)
+  url: https://rpc.tzbeta.net/chains/main/blocks/head/header
+- name: ghostnet [tezosfoundation] (https://rpc.ghostnet.teztnets.com)
+  url: https://rpc.ghostnet.teztnets.com/chains/main/blocks/head/header
+- name: quebecnet [tezosfoundation] (https://rpc.quebecnet.teztnets.com)
+  url: https://rpc.quebecnet.teztnets.com/chains/main/blocks/head/header
+- name: mainnet [tzkt] (https://rpc.tzkt.io/mainnet)
+  url: https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header
+- name: ghostnet [tzkt] (https://rpc.tzkt.io/ghostnet)
+  url: https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header
+- name: quebecnet [tzkt] (https://rpc.tzkt.io/quebecnet)
+  url: https://rpc.tzkt.io/quebecnet/chains/main/blocks/head/header
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  #cname: demo.upptime.js.org
+  baseUrl: /teznodes
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime for public Tezos Nodes
+  introTitle: "**Tezos Nodes Upptime** uptime monitor and status page, for tezos public nodes availability"
+#   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This page presents uses **real-time** data  generated using [GitHub:Upptime](https://github.com/upptime/upptime).
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com//
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+
