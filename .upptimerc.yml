@@ -3,7 +3,8 @@ owner: cotezos # Your GitHub organization or username, where this repository liv
 repo: teznodes # The name of this repository
 
 sites:
-# This file is automatically updated once per day
+# Taquito maintains a list here : https://tezostaquito.io/docs/rpc_nodes/ but not automated to here (yet?)
+# another source is the https://teztnets.com/teztnets.json rpc_urls (easier to automate, but less values)
 
 - name: mainnet [ecadinfra] (https://mainnet.tezos.ecadinfra.com)
   url: https://mainnet.tezos.ecadinfra.com/chains/main/blocks/head/header
@@ -34,12 +35,12 @@ status-website:
   name: Upptime for public Tezos Nodes
   introTitle: "**Tezos Nodes Upptime** uptime monitor and status page, for tezos public nodes availability"
 #   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This page presents data updated every 5min generated using [GitHub:Upptime](https://github.com/upptime/upptime).
+  introMessage: This page presents uses **real-time** data  generated using [GitHub:Upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status
-      href: https://cotezos.github.io/teznodes/
+      href: /
     - title: GitHub
-      href: https://github.com/cotezos/teznodes/
+      href: https://github.com//
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
