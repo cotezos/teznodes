@@ -130,53 +130,59 @@
     "url": "https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "mainnet-tzkt-https-rpc-tzkt-io-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 803,
-    "timeDay": 763,
-    "timeWeek": 764,
-    "timeMonth": 803,
-    "timeYear": 803,
-    "dailyMinutesDown": {}
+    "time": 813,
+    "timeDay": 880,
+    "timeWeek": 790,
+    "timeMonth": 813,
+    "timeYear": 813,
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   },
   {
     "name": "ghostnet [tzkt] (https://rpc.tzkt.io/ghostnet)",
     "url": "https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "ghostnet-tzkt-https-rpc-tzkt-io-ghostnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 121,
-    "timeWeek": 137,
-    "timeMonth": 142,
-    "timeYear": 142,
-    "dailyMinutesDown": {}
+    "time": 144,
+    "timeDay": 150,
+    "timeWeek": 142,
+    "timeMonth": 144,
+    "timeYear": 144,
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   },
   {
     "name": "quebecnet [tzkt] (https://rpc.tzkt.io/quebecnet)",
     "url": "https://rpc.tzkt.io/quebecnet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "quebecnet-tzkt-https-rpc-tzkt-io-quebecnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 496,
-    "timeWeek": 521,
-    "timeMonth": 521,
-    "timeYear": 521,
-    "dailyMinutesDown": {}
+    "time": 502,
+    "timeDay": 337,
+    "timeWeek": 478,
+    "timeMonth": 502,
+    "timeYear": 502,
+    "dailyMinutesDown": {
+      "2025-03-01": 0
+    }
   }
 ]
