@@ -148,9 +148,9 @@
     "url": "https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "ghostnet-tzkt-https-rpc-tzkt-io-ghostnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +159,9 @@
     "timeWeek": 142,
     "timeMonth": 140,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-19": 0
+    }
   },
   {
     "name": "quebecnet [tzkt] (https://rpc.tzkt.io/quebecnet)",
