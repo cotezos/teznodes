@@ -31,5 +31,5 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add .upptimerc.yml
-        git commit -m 'Update .upptimerc.yml with new RPC nodes'
-        git push
+        git diff-index --quiet HEAD || git commit -m 'Update .upptimerc.yml with new RPC nodes'
+        git push || echo "No changes to push"
