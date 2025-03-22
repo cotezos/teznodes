@@ -108,6 +108,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "rionet [tezosfoundation] (https://rpc.rionet.teztnets.com)",
+    "url": "https://rpc.rionet.teztnets.com/chains/main/blocks/head/header",
+    "icon": "https://icons.duckduckgo.com/ip3/rpc.rionet.teztnets.com.ico",
+    "slug": "rionet-tezosfoundation-https-rpc-rionet-teztnets-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "quebecnet [tezosfoundation] (https://rpc.quebecnet.teztnets.com)",
     "url": "https://rpc.quebecnet.teztnets.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.quebecnet.teztnets.com.ico",
@@ -162,6 +180,24 @@
     "dailyMinutesDown": {
       "2025-03-19": 15
     }
+  },
+  {
+    "name": "rionet [tzkt] (https://rpc.tzkt.io/rionet)",
+    "url": "https://rpc.tzkt.io/rionet/chains/main/blocks/head/header",
+    "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
+    "slug": "rionet-tzkt-https-rpc-tzkt-io-rionet",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 145,
+    "timeDay": 145,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
+    "dailyMinutesDown": {}
   },
   {
     "name": "quebecnet [tzkt] (https://rpc.tzkt.io/quebecnet)",
