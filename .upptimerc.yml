@@ -18,12 +18,16 @@ sites:
   url: https://rpc.tzbeta.net/chains/main/blocks/head/header
 - name: ghostnet [tezosfoundation] (https://rpc.ghostnet.teztnets.com)
   url: https://rpc.ghostnet.teztnets.com/chains/main/blocks/head/header
+- name: rionet [tezosfoundation] (https://rpc.rionet.teztnets.com)
+  url: https://rpc.rionet.teztnets.com/chains/main/blocks/head/header
 - name: quebecnet [tezosfoundation] (https://rpc.quebecnet.teztnets.com)
   url: https://rpc.quebecnet.teztnets.com/chains/main/blocks/head/header
 - name: mainnet [tzkt] (https://rpc.tzkt.io/mainnet)
   url: https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header
 - name: ghostnet [tzkt] (https://rpc.tzkt.io/ghostnet)
   url: https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header
+- name: rionet [tzkt] (https://rpc.tzkt.io/rionet)
+  url: https://rpc.tzkt.io/rionet/chains/main/blocks/head/header
 - name: quebecnet [tzkt] (https://rpc.tzkt.io/quebecnet)
   url: https://rpc.tzkt.io/quebecnet/chains/main/blocks/head/header
 status-website:
