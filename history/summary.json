@@ -149,19 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "mainnet-tzkt-https-rpc-tzkt-io-mainnet",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 788,
     "timeDay": 1759,
     "timeWeek": 992,
     "timeMonth": 781,
     "timeYear": 788,
-    "dailyMinutesDown": {
-      "2025-04-06": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ghostnet [tzkt] (https://rpc.tzkt.io/ghostnet)",
