@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
-    "timeDay": 284,
+    "timeDay": 283,
     "timeWeek": 2177,
     "timeMonth": 818,
     "timeYear": 578,
@@ -76,18 +76,20 @@
     "url": "https://rpc.tzbeta.net/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzbeta.net.ico",
     "slug": "mainnet-tezosfoundation-https-rpc-tzbeta-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 414,
-    "timeDay": 457,
-    "timeWeek": 445,
-    "timeMonth": 431,
-    "timeYear": 414,
-    "dailyMinutesDown": {}
+    "time": 411,
+    "timeDay": 349,
+    "timeWeek": 420,
+    "timeMonth": 425,
+    "timeYear": 411,
+    "dailyMinutesDown": {
+      "2025-04-08": 0
+    }
   },
   {
     "name": "ghostnet [tezosfoundation] (https://rpc.ghostnet.teztnets.com)",
