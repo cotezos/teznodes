@@ -1,7 +1,7 @@
 url: https://ghostnet.tezos.ecadinfra.com/chains/main/blocks/head/header
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-18T05:32:53.152Z
+status: up
+code: 200
+responseTime: 19808
+lastUpdated: 2025-04-18T07:40:25.229Z
 startTime: 2025-02-14T20:53:43.246Z
 generator: Upptime <https://github.com/upptime/upptime>
