@@ -1,7 +1,7 @@
 url: https://rpc.rionet.teztnets.com/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 151
-lastUpdated: 2025-07-07T23:09:50.383Z
+responseTime: 270
+lastUpdated: 2025-07-08T23:09:58.588Z
 startTime: 2025-03-22T02:13:20.454Z
 generator: Upptime <https://github.com/upptime/upptime>
