@@ -128,6 +128,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "seoulnet [tezosfoundation] (https://rpc.seoulnet.teztnets.com)",
+    "url": "https://rpc.seoulnet.teztnets.com/chains/main/blocks/head/header",
+    "icon": "https://icons.duckduckgo.com/ip3/rpc.seoulnet.teztnets.com.ico",
+    "slug": "seoulnet-tezosfoundation-https-rpc-seoulnet-teztnets-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 300,
+    "timeDay": 300,
+    "timeWeek": 300,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "mainnet [tzkt] (https://rpc.tzkt.io/mainnet)",
     "url": "https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
@@ -191,5 +209,23 @@
       "2025-05-02": 20,
       "2025-04-25": 34
     }
+  },
+  {
+    "name": "seoulnet [tzkt] (https://rpc.tzkt.io/seoulnet)",
+    "url": "https://rpc.tzkt.io/seoulnet/chains/main/blocks/head/header",
+    "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
+    "slug": "seoulnet-tzkt-https-rpc-tzkt-io-seoulnet",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 168,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
+    "dailyMinutesDown": {}
   }
 ]
