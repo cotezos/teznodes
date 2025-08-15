@@ -40,9 +40,9 @@
     "url": "https://mainnet.smartpy.io/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
     "slug": "mainnet-smartpy-https-mainnet-smartpy-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
@@ -52,6 +52,7 @@
     "timeMonth": 349,
     "timeYear": 303,
     "dailyMinutesDown": {
+      "2025-08-15": 0,
       "2025-08-12": 46,
       "2025-08-11": 38
     }
