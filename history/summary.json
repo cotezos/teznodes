@@ -40,7 +40,7 @@
     "url": "https://mainnet.smartpy.io/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
     "slug": "mainnet-smartpy-https-mainnet-smartpy-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "95.56%",
     "uptimeWeek": "98.61%",
