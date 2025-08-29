@@ -1,7 +1,7 @@
 url: https://rpc.seoulnet.teztnets.com/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 204
-lastUpdated: 2025-08-28T23:09:23.984Z
+responseTime: 251
+lastUpdated: 2025-08-29T23:08:45.327Z
 startTime: 2025-07-26T03:09:58.061Z
 generator: Upptime <https://github.com/upptime/upptime>
