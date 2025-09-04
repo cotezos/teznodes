@@ -10,6 +10,12 @@ sites:
   url: https://mainnet.tezos.ecadinfra.com/chains/main/blocks/head/header
 - name: ghostnet [ecadinfra] (https://ghostnet.tezos.ecadinfra.com)
   url: https://ghostnet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: shadownet [ecadinfra] (https://shadownet.tezos.ecadinfra.com)
+  url: https://shadownet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: rionet [ecadinfra] (https://rionet.tezos.ecadinfra.com)
+  url: https://rionet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: seoulnet [ecadinfra] (https://seoulnet.tezos.ecadinfra.com)
+  url: https://seoulnet.tezos.ecadinfra.com/chains/main/blocks/head/header
 - name: mainnet [smartpy] (https://mainnet.smartpy.io)
   url: https://mainnet.smartpy.io/chains/main/blocks/head/header
 - name: ghostnet [smartpy] (https://ghostnet.smartpy.io)
@@ -18,6 +24,8 @@ sites:
   url: https://rpc.tzbeta.net/chains/main/blocks/head/header
 - name: ghostnet [tezosfoundation] (https://rpc.ghostnet.teztnets.com)
   url: https://rpc.ghostnet.teztnets.com/chains/main/blocks/head/header
+- name: shadownet [tezosfoundation] (https://rpc.shadownet.teztnets.com)
+  url: https://rpc.shadownet.teztnets.com/chains/main/blocks/head/header
 - name: rionet [tezosfoundation] (https://rpc.rionet.teztnets.com)
   url: https://rpc.rionet.teztnets.com/chains/main/blocks/head/header
 - name: seoulnet [tezosfoundation] (https://rpc.seoulnet.teztnets.com)
@@ -26,6 +34,8 @@ sites:
   url: https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header
 - name: ghostnet [tzkt] (https://rpc.tzkt.io/ghostnet)
   url: https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header
+- name: shadownet [tzkt] (https://rpc.tzkt.io/shadownet)
+  url: https://rpc.tzkt.io/shadownet/chains/main/blocks/head/header
 - name: rionet [tzkt] (https://rpc.tzkt.io/rionet)
   url: https://rpc.tzkt.io/rionet/chains/main/blocks/head/header
 - name: seoulnet [tzkt] (https://rpc.tzkt.io/seoulnet)
