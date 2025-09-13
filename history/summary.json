@@ -231,9 +231,9 @@
     "slug": "mainnet-tzkt-https-rpc-tzkt-io-mainnet",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 818,
     "timeDay": 1190,
@@ -241,7 +241,7 @@
     "timeMonth": 875,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2025-09-13": 0,
+      "2025-09-13": 14,
       "2025-05-02": 20,
       "2025-04-25": 34
     }
@@ -251,9 +251,9 @@
     "url": "https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "ghostnet-tzkt-https-rpc-tzkt-io-ghostnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -263,6 +263,7 @@
     "timeMonth": 524,
     "timeYear": 231,
     "dailyMinutesDown": {
+      "2025-09-13": 0,
       "2025-05-02": 20,
       "2025-04-25": 34,
       "2025-04-23": 22,
@@ -274,9 +275,9 @@
     "url": "https://rpc.tzkt.io/shadownet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "shadownet-tzkt-https-rpc-tzkt-io-shadownet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -285,16 +286,18 @@
     "timeWeek": 145,
     "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-13": 0
+    }
   },
   {
     "name": "rionet [tzkt] (https://rpc.tzkt.io/rionet)",
     "url": "https://rpc.tzkt.io/rionet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "rionet-tzkt-https-rpc-tzkt-io-rionet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -304,6 +307,7 @@
     "timeMonth": 144,
     "timeYear": 138,
     "dailyMinutesDown": {
+      "2025-09-13": 0,
       "2025-05-02": 20,
       "2025-04-25": 34
     }
@@ -313,9 +317,9 @@
     "url": "https://rpc.tzkt.io/seoulnet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "seoulnet-tzkt-https-rpc-tzkt-io-seoulnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -324,6 +328,8 @@
     "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-13": 0
+    }
   }
 ]
