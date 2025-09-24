@@ -54,32 +54,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "rionet [ecadinfra] (https://rionet.tezos.ecadinfra.com)",
-    "url": "https://rionet.tezos.ecadinfra.com/chains/main/blocks/head/header",
-    "icon": "https://icons.duckduckgo.com/ip3/rionet.tezos.ecadinfra.com.ico",
-    "slug": "rionet-ecadinfra-https-rionet-tezos-ecadinfra-com",
-    "status": "down",
-    "uptime": "73.44%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "24.39%",
-    "uptimeMonth": "73.44%",
-    "uptimeYear": "73.44%",
-    "time": 6389,
-    "timeDay": 19970,
-    "timeWeek": 17208,
-    "timeMonth": 6389,
-    "timeYear": 6389,
-    "dailyMinutesDown": {
-      "2025-09-24": 44,
-      "2025-09-23": 1440,
-      "2025-09-22": 1440,
-      "2025-09-21": 1440,
-      "2025-09-20": 1440,
-      "2025-09-19": 1440,
-      "2025-09-18": 377
-    }
-  },
-  {
     "name": "seoulnet [ecadinfra] (https://seoulnet.tezos.ecadinfra.com)",
     "url": "https://seoulnet.tezos.ecadinfra.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/seoulnet.tezos.ecadinfra.com.ico",
@@ -104,7 +78,7 @@
     "slug": "mainnet-smartpy-https-mainnet-smartpy-io",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -114,6 +88,7 @@
     "timeMonth": 317,
     "timeYear": 388,
     "dailyMinutesDown": {
+      "2025-09-24": 0,
       "2025-08-19": 66,
       "2025-08-18": 45,
       "2025-08-16": 30,
@@ -194,24 +169,6 @@
     "timeWeek": 202,
     "timeMonth": 195,
     "timeYear": 195,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "rionet [tezosfoundation] (https://rpc.rionet.teztnets.com)",
-    "url": "https://rpc.rionet.teztnets.com/chains/main/blocks/head/header",
-    "icon": "https://icons.duckduckgo.com/ip3/rpc.rionet.teztnets.com.ico",
-    "slug": "rionet-tezosfoundation-https-rpc-rionet-teztnets-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 0,
-    "timeWeek": 262,
-    "timeMonth": 231,
-    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -296,28 +253,6 @@
     "timeYear": 143,
     "dailyMinutesDown": {
       "2025-09-13": 17
-    }
-  },
-  {
-    "name": "rionet [tzkt] (https://rpc.tzkt.io/rionet)",
-    "url": "https://rpc.tzkt.io/rionet/chains/main/blocks/head/header",
-    "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
-    "slug": "rionet-tzkt-https-rpc-tzkt-io-rionet",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 139,
-    "timeDay": 164,
-    "timeWeek": 144,
-    "timeMonth": 145,
-    "timeYear": 139,
-    "dailyMinutesDown": {
-      "2025-09-13": 17,
-      "2025-05-02": 20,
-      "2025-04-25": 34
     }
   },
   {
