@@ -1,7 +1,7 @@
 url: https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 939
-lastUpdated: 2025-09-30T23:08:33.311Z
+responseTime: 897
+lastUpdated: 2025-10-01T23:08:11.807Z
 startTime: 2025-02-14T20:53:46.377Z
 generator: Upptime <https://github.com/upptime/upptime>
