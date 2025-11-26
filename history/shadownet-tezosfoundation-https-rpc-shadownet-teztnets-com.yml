@@ -1,7 +1,7 @@
 url: https://rpc.shadownet.teztnets.com/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 338
-lastUpdated: 2025-11-25T23:09:42.231Z
+responseTime: 250
+lastUpdated: 2025-11-26T23:09:34.127Z
 startTime: 2025-09-04T02:35:16.141Z
 generator: Upptime <https://github.com/upptime/upptime>
