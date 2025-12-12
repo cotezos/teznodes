@@ -1,7 +1,7 @@
 url: https://shadownet.tezos.ecadinfra.com/chains/main/blocks/head/header
-status: down
-code: 522
-responseTime: 19420
-lastUpdated: 2025-12-12T14:52:38.831Z
+status: up
+code: 200
+responseTime: 486
+lastUpdated: 2025-12-12T16:54:12.553Z
 startTime: 2025-09-04T02:35:12.981Z
 generator: Upptime <https://github.com/upptime/upptime>
