@@ -1,7 +1,7 @@
 url: https://seoulnet.tezos.ecadinfra.com/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 205
-lastUpdated: 2025-12-11T23:10:18.148Z
+status: down
+code: 522
+responseTime: 19359
+lastUpdated: 2025-12-12T14:53:37.554Z
 startTime: 2025-09-04T02:35:14.103Z
 generator: Upptime <https://github.com/upptime/upptime>
