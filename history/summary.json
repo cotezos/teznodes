@@ -13,7 +13,7 @@
     "time": 573,
     "timeDay": 300,
     "timeWeek": 2422,
-    "timeMonth": 859,
+    "timeMonth": 895,
     "timeYear": 573,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 428,
     "timeDay": 239,
     "timeWeek": 254,
-    "timeMonth": 380,
+    "timeMonth": 394,
     "timeYear": 428,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 608,
     "timeDay": 198,
     "timeWeek": 3816,
-    "timeMonth": 1334,
+    "timeMonth": 1400,
     "timeYear": 608,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 598,
     "timeDay": 235,
     "timeWeek": 3744,
-    "timeMonth": 1317,
+    "timeMonth": 1384,
     "timeYear": 598,
     "dailyMinutesDown": {}
   },
@@ -221,9 +221,9 @@
     "url": "https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
     "slug": "ghostnet-tzkt-https-rpc-tzkt-io-ghostnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
@@ -233,6 +233,7 @@
     "timeMonth": 192,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2025-12-18": 0,
       "2025-11-23": 25,
       "2025-11-20": 23,
       "2025-09-29": 47,
