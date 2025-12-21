@@ -1,7 +1,7 @@
 url: https://mainnet.tezos.ecadinfra.com/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 170
-lastUpdated: 2025-12-20T23:09:42.958Z
+status: down
+code: 503
+responseTime: 20238
+lastUpdated: 2025-12-21T18:38:39.377Z
 startTime: 2025-02-14T20:53:42.693Z
 generator: Upptime <https://github.com/upptime/upptime>
