@@ -6,6 +6,40 @@ sites:
 # Taquito maintains a list here : https://tezostaquito.io/docs/rpc_nodes/ but not automated to here (yet?)
 # another source is the https://teztnets.com/teztnets.json rpc_urls (easier to automate, but less values)
 
+- name: mainnet [ecadinfra] (https://mainnet.tezos.ecadinfra.com)
+  url: https://mainnet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: ghostnet [ecadinfra] (https://ghostnet.tezos.ecadinfra.com)
+  url: https://ghostnet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: shadownet [ecadinfra] (https://shadownet.tezos.ecadinfra.com)
+  url: https://shadownet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: seoulnet [ecadinfra] (https://seoulnet.tezos.ecadinfra.com)
+  url: https://seoulnet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: tallinnnet [ecadinfra] (https://tallinnnet.tezos.ecadinfra.com)
+  url: https://tallinnnet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: mainnet [smartpy] (https://mainnet.smartpy.io)
+  url: https://mainnet.smartpy.io/chains/main/blocks/head/header
+- name: ghostnet [smartpy] (https://ghostnet.smartpy.io)
+  url: https://ghostnet.smartpy.io/chains/main/blocks/head/header
+- name: mainnet [tezosfoundation] (https://rpc.tzbeta.net)
+  url: https://rpc.tzbeta.net/chains/main/blocks/head/header
+- name: ghostnet [tezosfoundation] (https://rpc.ghostnet.teztnets.com)
+  url: https://rpc.ghostnet.teztnets.com/chains/main/blocks/head/header
+- name: shadownet [tezosfoundation] (https://rpc.shadownet.teztnets.com)
+  url: https://rpc.shadownet.teztnets.com/chains/main/blocks/head/header
+- name: seoulnet [tezosfoundation] (https://rpc.seoulnet.teztnets.com)
+  url: https://rpc.seoulnet.teztnets.com/chains/main/blocks/head/header
+- name: tallinnnet [tezosfoundation] (https://rpc.tallinnnet.teztnets.com)
+  url: https://rpc.tallinnnet.teztnets.com/chains/main/blocks/head/header
+- name: mainnet [tzkt] (https://rpc.tzkt.io/mainnet)
+  url: https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header
+- name: ghostnet [tzkt] (https://rpc.tzkt.io/ghostnet)
+  url: https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header
+- name: shadownet [tzkt] (https://rpc.tzkt.io/shadownet)
+  url: https://rpc.tzkt.io/shadownet/chains/main/blocks/head/header
+- name: seoulnet [tzkt] (https://rpc.tzkt.io/seoulnet)
+  url: https://rpc.tzkt.io/seoulnet/chains/main/blocks/head/header
+- name: tallinnnet [tzkt] (https://rpc.tzkt.io/tallinnnet)
+  url: https://rpc.tzkt.io/tallinnnet/chains/main/blocks/head/header
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
