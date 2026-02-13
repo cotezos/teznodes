@@ -1,7 +1,7 @@
 url: https://rpc.tallinnnet.teztnets.com/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 186
-lastUpdated: 2026-02-12T23:18:17.010Z
+responseTime: 261
+lastUpdated: 2026-02-13T23:20:23.569Z
 startTime: 2026-01-05T22:01:04.011Z
 generator: Upptime <https://github.com/upptime/upptime>
