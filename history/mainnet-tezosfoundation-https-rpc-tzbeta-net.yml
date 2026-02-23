@@ -1,7 +1,7 @@
 url: https://rpc.tzbeta.net/chains/main/blocks/head/header
-status: down
-code: 500
-responseTime: 384
-lastUpdated: 2026-02-22T23:14:54.872Z
+status: up
+code: 200
+responseTime: 444
+lastUpdated: 2026-02-23T04:50:45.782Z
 startTime: 2025-02-14T20:53:44.755Z
 generator: Upptime <https://github.com/upptime/upptime>
