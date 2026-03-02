@@ -1,7 +1,7 @@
 url: https://rpc.ghostnet.teztnets.com/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 238
-lastUpdated: 2026-03-01T23:13:19.408Z
+responseTime: 184
+lastUpdated: 2026-03-02T23:15:04.485Z
 startTime: 2025-02-14T20:53:45.395Z
 generator: Upptime <https://github.com/upptime/upptime>
