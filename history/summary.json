@@ -58,7 +58,7 @@
     "url": "https://tallinnnet.tezos.ecadinfra.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/tallinnnet.tezos.ecadinfra.com.ico",
     "slug": "tallinnnet-ecadinfra-https-tallinnnet-tezos-ecadinfra-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
