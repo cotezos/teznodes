@@ -1,7 +1,7 @@
 url: https://rpc.tallinnnet.teztnets.com/chains/main/blocks/head/header
 status: down
 code: 503
-responseTime: 155
-lastUpdated: 2026-04-11T23:22:04.553Z
+responseTime: 204
+lastUpdated: 2026-04-12T23:23:32.817Z
 startTime: 2026-01-05T22:01:04.011Z
 generator: Upptime <https://github.com/upptime/upptime>
