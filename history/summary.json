@@ -36,24 +36,6 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "tallinnnet [ecadinfra] (https://tallinnnet.tezos.ecadinfra.com)",
-    "url": "https://tallinnnet.tezos.ecadinfra.com/chains/main/blocks/head/header",
-    "icon": "https://icons.duckduckgo.com/ip3/tallinnnet.tezos.ecadinfra.com.ico",
-    "slug": "tallinnnet-ecadinfra-https-tallinnnet-tezos-ecadinfra-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 0,
-    "timeWeek": 280,
-    "timeMonth": 269,
-    "timeYear": 533,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "mainnet [smartpy] (https://mainnet.smartpy.io)",
     "url": "https://mainnet.smartpy.io/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/mainnet.smartpy.io.ico",
@@ -170,21 +152,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "tallinnnet [tezosfoundation] (https://rpc.tallinnnet.teztnets.com)",
-    "url": "https://rpc.tallinnnet.teztnets.com/chains/main/blocks/head/header",
-    "icon": "https://icons.duckduckgo.com/ip3/rpc.tallinnnet.teztnets.com.ico",
-    "slug": "tallinnnet-tezosfoundation-https-rpc-tallinnnet-teztnets-com",
+    "name": "ushuaianet [tezosfoundation] (https://rpc.ushuaianet.teztnets.com)",
+    "url": "https://rpc.ushuaianet.teztnets.com/chains/main/blocks/head/header",
+    "icon": "https://icons.duckduckgo.com/ip3/rpc.ushuaianet.teztnets.com.ico",
+    "slug": "ushuaianet-tezosfoundation-https-rpc-ushuaianet-teztnets-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 223,
-    "timeWeek": 201,
-    "timeMonth": 207,
-    "timeYear": 237,
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -243,26 +225,6 @@
       "2025-12-19": 44,
       "2025-11-20": 22,
       "2025-09-13": 17
-    }
-  },
-  {
-    "name": "tallinnnet [tzkt] (https://rpc.tzkt.io/tallinnnet)",
-    "url": "https://rpc.tzkt.io/tallinnnet/chains/main/blocks/head/header",
-    "icon": "https://icons.duckduckgo.com/ip3/rpc.tzkt.io.ico",
-    "slug": "tallinnnet-tzkt-https-rpc-tzkt-io-tallinnnet",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 185,
-    "timeDay": 469,
-    "timeWeek": 300,
-    "timeMonth": 226,
-    "timeYear": 185,
-    "dailyMinutesDown": {
-      "2026-02-16": 55
     }
   }
 ]
