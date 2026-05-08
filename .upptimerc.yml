@@ -10,22 +10,18 @@ sites:
   url: https://mainnet.tezos.ecadinfra.com/chains/main/blocks/head/header
 - name: shadownet [ecadinfra] (https://shadownet.tezos.ecadinfra.com)
   url: https://shadownet.tezos.ecadinfra.com/chains/main/blocks/head/header
-- name: tallinnnet [ecadinfra] (https://tallinnnet.tezos.ecadinfra.com)
-  url: https://tallinnnet.tezos.ecadinfra.com/chains/main/blocks/head/header
 - name: mainnet [smartpy] (https://mainnet.smartpy.io)
   url: https://mainnet.smartpy.io/chains/main/blocks/head/header
 - name: mainnet [tezosfoundation] (https://rpc.tzbeta.net)
   url: https://rpc.tzbeta.net/chains/main/blocks/head/header
 - name: shadownet [tezosfoundation] (https://rpc.shadownet.teztnets.com)
   url: https://rpc.shadownet.teztnets.com/chains/main/blocks/head/header
-- name: tallinnnet [tezosfoundation] (https://rpc.tallinnnet.teztnets.com)
-  url: https://rpc.tallinnnet.teztnets.com/chains/main/blocks/head/header
+- name: ushuaianet [tezosfoundation] (https://rpc.ushuaianet.teztnets.com)
+  url: https://rpc.ushuaianet.teztnets.com/chains/main/blocks/head/header
 - name: mainnet [tzkt] (https://rpc.tzkt.io/mainnet)
   url: https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header
 - name: shadownet [tzkt] (https://rpc.tzkt.io/shadownet)
   url: https://rpc.tzkt.io/shadownet/chains/main/blocks/head/header
-- name: tallinnnet [tzkt] (https://rpc.tzkt.io/tallinnnet)
-  url: https://rpc.tzkt.io/tallinnnet/chains/main/blocks/head/header
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
