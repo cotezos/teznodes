@@ -6,10 +6,10 @@ sites:
 # Taquito maintains a list here : https://tezostaquito.io/docs/rpc_nodes/ but not automated to here (yet?)
 # another source is the https://teztnets.com/teztnets.json rpc_urls (easier to automate, but less values)
 
-- name: mainnet [ecadinfra] (https://mainnet.tezos.ecadinfra.com)
-  url: https://mainnet.tezos.ecadinfra.com/chains/main/blocks/head/header
-- name: shadownet [ecadinfra] (https://shadownet.tezos.ecadinfra.com)
-  url: https://shadownet.tezos.ecadinfra.com/chains/main/blocks/head/header
+- name: mainnet [trilitech] (https://tezos-mainnet.octez.io)
+  url: https://tezos-mainnet.octez.io/chains/main/blocks/head/header
+- name: shadownet [trilitech] (https://tezos-shadownet.octez.io)
+  url: https://tezos-shadownet.octez.io/chains/main/blocks/head/header
 - name: mainnet [smartpy] (https://mainnet.smartpy.io)
   url: https://mainnet.smartpy.io/chains/main/blocks/head/header
 - name: mainnet [tezosfoundation] (https://rpc.tzbeta.net)
