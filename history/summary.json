@@ -66,14 +66,14 @@
     "url": "https://rpc.tzbeta.net/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzbeta.net.ico",
     "slug": "mainnet-tezosfoundation-https-rpc-tzbeta-net",
-    "status": "up",
+    "status": "down",
     "uptime": "97.98%",
-    "uptimeDay": "86.07%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "80.17%",
     "uptimeMonth": "93.86%",
     "uptimeYear": "97.34%",
     "time": 1491,
-    "timeDay": 402,
+    "timeDay": 609,
     "timeWeek": 1516,
     "timeMonth": 4079,
     "timeYear": 1757,
@@ -139,7 +139,8 @@
       "2026-06-08": 705,
       "2026-06-07": 754,
       "2026-06-09": 156,
-      "2026-06-10": 201
+      "2026-06-10": 201,
+      "2026-06-11": 0
     }
   },
   {
