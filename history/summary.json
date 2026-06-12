@@ -66,7 +66,7 @@
     "url": "https://rpc.tzbeta.net/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tzbeta.net.ico",
     "slug": "mainnet-tezosfoundation-https-rpc-tzbeta-net",
-    "status": "up",
+    "status": "down",
     "uptime": "97.97%",
     "uptimeDay": "93.55%",
     "uptimeWeek": "79.25%",
