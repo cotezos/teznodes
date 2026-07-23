@@ -1,9 +1,20 @@
 name: Update .upptimerc.yml
 
+# Regenerates the `sites:` list of .upptimerc.yml from tezos-facts, the
+# Nomadic Labs project that merges the public Tezos node sources
+# (teztnets.com, taquito rpc_nodes.json, docs.tezos.com) into a single
+# deduplicated Prometheus service-discovery document:
+#   https://gitlab.com/tezos-infra/vigies/tezos-facts
+# Only the block between the BEGIN/END markers in .upptimerc.yml is
+# rewritten; everything else in the file is hand-maintained.
+
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight
   workflow_dispatch: # Allows manual triggering
+
+env:
+  MERGED_SD_URL: https://tezos-infra.gitlab.io/vigies/tezos-facts/merged_prometheus_sd.json
 
 jobs:
   update-upptimerc:
@@ -11,25 +22,70 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
-    - name: Fetch rpc_nodes.json
-      run: curl -o rpc_nodes.json https://taquito.io/rpc_nodes.json
+    - name: Fetch merged public-node list from tezos-facts
+      run: curl -fsS --retry 3 --retry-delay 5 --max-time 60 "$MERGED_SD_URL" -o merged_prometheus_sd.json
 
-    - name: Update .upptimerc.yml
+    - name: Generate sites block
       run: |
-        HEADER="# Change these first\nowner: cotezos # Your GitHub organization or username, where this repository lives\nrepo: teznodes # The name of this repository\n\nsites:\n# Taquito maintains a list here : https://tezostaquito.io/docs/rpc_nodes/ but not automated to here (yet?)\n# another source is the https://teztnets.com/teztnets.json rpc_urls (easier to automate, but less values)\n"
-        FOOTER="status-website:\n  # Add your custom domain name, or remove the \`cname\` line if you don't have a domain\n  # Uncomment the \`baseUrl\` line if you don't have a custom domain and add your repo name there\n  #cname: demo.upptime.js.org\n  baseUrl: /teznodes\n  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg\n  name: Upptime for public Tezos Nodes\n  introTitle: \"**Tezos Nodes Upptime** uptime monitor and status page, for tezos public nodes availability\"\n#   introTitle: \"**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.\"\n  introMessage: This page presents uses **real-time** data  generated using [GitHub:Upptime](https://github.com/upptime/upptime).\n  navbar:\n    - title: Status\n      href: /\n    - title: GitHub\n      href: https://github.com/$OWNER/$REPO\n\n# Upptime also supports notifications, assigning issues, and more\n# See https://upptime.js.org/docs/configuration\n"
+        # Weeklynet ("Periodic/Internal Teztnets") is excluded: its hostname
+        # rotates every week, which would reset Upptime history and open a
+        # down-incident at each rotation.
+        # teztnets-sourced entries carry no `provider` label; default to
+        # "tezosfoundation" (teztnets.com infrastructure) so existing site
+        # names — and therefore their Upptime history — are preserved.
+        jq -r '
+          [ .[]
+            | select(.labels.category != "Periodic/Internal Teztnets")
+            | (.labels.provider // "tezosfoundation") as $provider
+            | .labels.tezos_network as $network
+            | .targets[]
+            | { name: "\($network) [\($provider)] (https://\(.))",
+                url: "https://\(.)/chains/main/blocks/head/header" }
+          ]
+          | sort_by(.name)
+          | .[]
+          | "- name: \(.name)\n  url: \(.url)"
+        ' merged_prometheus_sd.json > new_sites.txt
 
-        jq -r '.rpc_endpoints[] | "- name: \(.net) [\(.provider)] (\(.url))\n  url: \(.url)/chains/main/blocks/head/header"' rpc_nodes.json > new_sites.txt
-        echo -e "$HEADER" > .upptimerc.yml
-        cat new_sites.txt >> .upptimerc.yml
-        echo -e "$FOOTER" >> .upptimerc.yml
+        SITE_COUNT=$(grep -c '^- name: ' new_sites.txt || true)
+        echo "Generated $SITE_COUNT sites"
+        # Refuse to shrink the list to (near-)nothing: a broken or empty
+        # upstream feed must not wipe the monitored sites.
+        if [ "$SITE_COUNT" -lt 3 ]; then
+          echo "ERROR: only $SITE_COUNT sites generated - keeping the existing list" >&2
+          exit 1
+        fi
+
+    - name: Splice sites block into .upptimerc.yml
+      run: |
+        grep -q '# BEGIN sites managed by update_upptimerc.yml' .upptimerc.yml
+        grep -q '# END sites managed by update_upptimerc.yml' .upptimerc.yml
+        awk '
+          /# BEGIN sites managed by update_upptimerc.yml/ {
+            print
+            while ((getline line < "new_sites.txt") > 0) print line
+            skip = 1
+            next
+          }
+          /# END sites managed by update_upptimerc.yml/ { skip = 0 }
+          !skip { print }
+        ' .upptimerc.yml > .upptimerc.yml.new
+        mv .upptimerc.yml.new .upptimerc.yml
+
+    - name: Validate resulting YAML
+      run: |
+        SITES_IN_CONFIG=$(yq e '.sites | length' .upptimerc.yml)
+        SITES_GENERATED=$(grep -c '^- name: ' new_sites.txt)
+        echo "sites in config: $SITES_IN_CONFIG (generated: $SITES_GENERATED)"
+        [ "$SITES_IN_CONFIG" -eq "$SITES_GENERATED" ]
 
     - name: Commit and push changes
       run: |
+        rm -f merged_prometheus_sd.json new_sites.txt
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add .upptimerc.yml
-        git diff-index --quiet HEAD || git commit -m 'Update .upptimerc.yml with new RPC nodes'
+        git diff-index --quiet HEAD || git commit -m 'Update .upptimerc.yml from tezos-facts merged public-node list'
         git push || echo "No changes to push"

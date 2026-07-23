@@ -3,25 +3,37 @@ owner: cotezos # Your GitHub organization or username, where this repository liv
 repo: teznodes # The name of this repository
 
 sites:
-# Taquito maintains a list here : https://tezostaquito.io/docs/rpc_nodes/ but not automated to here (yet?)
-# another source is the https://teztnets.com/teztnets.json rpc_urls (easier to automate, but less values)
-
-- name: mainnet [trilitech] (https://tezos-mainnet.octez.io)
-  url: https://tezos-mainnet.octez.io/chains/main/blocks/head/header
-- name: shadownet [trilitech] (https://tezos-shadownet.octez.io)
-  url: https://tezos-shadownet.octez.io/chains/main/blocks/head/header
+# The block below is regenerated daily by .github/workflows/update_upptimerc.yml
+# from https://tezos-infra.gitlab.io/vigies/tezos-facts/merged_prometheus_sd.json,
+# which merges the public-node sources (teztnets.com, taquito rpc_nodes.json,
+# docs.tezos.com). Manual edits inside the markers will be overwritten.
+# BEGIN sites managed by update_upptimerc.yml
+- name: bakingnet [tezosfoundation] (https://rpc.bakingnet.teztnets.com)
+  url: https://rpc.bakingnet.teztnets.com/chains/main/blocks/head/header
+- name: mainnet [octez] (https://octez-mainnet-archive.octez.io)
+  url: https://octez-mainnet-archive.octez.io/chains/main/blocks/head/header
 - name: mainnet [smartpy] (https://mainnet.smartpy.io)
   url: https://mainnet.smartpy.io/chains/main/blocks/head/header
+- name: mainnet [tezos_commons] (https://tcinfra.net)
+  url: https://tcinfra.net/chains/main/blocks/head/header
 - name: mainnet [tezosfoundation] (https://rpc.tzbeta.net)
   url: https://rpc.tzbeta.net/chains/main/blocks/head/header
-- name: shadownet [tezosfoundation] (https://rpc.shadownet.teztnets.com)
-  url: https://rpc.shadownet.teztnets.com/chains/main/blocks/head/header
-- name: ushuaianet [tezosfoundation] (https://rpc.ushuaianet.teztnets.com)
-  url: https://rpc.ushuaianet.teztnets.com/chains/main/blocks/head/header
+- name: mainnet [trilitech] (https://tezos-mainnet.octez.io)
+  url: https://tezos-mainnet.octez.io/chains/main/blocks/head/header
 - name: mainnet [tzkt] (https://rpc.tzkt.io/mainnet)
   url: https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header
+- name: shadownet [octez] (https://octez-shadownet-archive.octez.io)
+  url: https://octez-shadownet-archive.octez.io/chains/main/blocks/head/header
+- name: shadownet [tezosfoundation] (https://rpc.shadownet.teztnets.com)
+  url: https://rpc.shadownet.teztnets.com/chains/main/blocks/head/header
+- name: shadownet [trilitech] (https://tezos-shadownet.octez.io)
+  url: https://tezos-shadownet.octez.io/chains/main/blocks/head/header
 - name: shadownet [tzkt] (https://rpc.tzkt.io/shadownet)
   url: https://rpc.tzkt.io/shadownet/chains/main/blocks/head/header
+- name: ushuaianet [tezosfoundation] (https://rpc.ushuaianet.teztnets.com)
+  url: https://rpc.ushuaianet.teztnets.com/chains/main/blocks/head/header
+# END sites managed by update_upptimerc.yml
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -36,8 +48,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com//
+      href: https://github.com/cotezos/teznodes
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
