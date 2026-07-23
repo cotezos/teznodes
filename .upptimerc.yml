@@ -4,9 +4,10 @@ repo: teznodes # The name of this repository
 
 sites:
 # The block below is regenerated daily by .github/workflows/update_upptimerc.yml
-# from https://tezos-infra.gitlab.io/vigies/tezos-facts/merged_prometheus_sd.json,
-# which merges the public-node sources (teztnets.com, taquito rpc_nodes.json,
-# docs.tezos.com). Manual edits inside the markers will be overwritten.
+# (scripts/update_sites.sh), which independently fetches and merges the
+# public-node sources: teztnets.com/teztnets.json, taquito rpc_nodes.json and
+# the tezos-facts aggregator (https://gitlab.com/tezos-infra/vigies/tezos-facts).
+# Manual edits inside the markers will be overwritten.
 # BEGIN sites managed by update_upptimerc.yml
 - name: bakingnet [tezosfoundation] (https://rpc.bakingnet.teztnets.com)
   url: https://rpc.bakingnet.teztnets.com/chains/main/blocks/head/header
