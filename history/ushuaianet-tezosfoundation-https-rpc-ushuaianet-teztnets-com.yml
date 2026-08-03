@@ -1,7 +1,7 @@
 url: https://rpc.ushuaianet.teztnets.com/chains/main/blocks/head/header
-status: down
-code: 503
-responseTime: 114
-lastUpdated: 2026-08-02T23:50:57.555Z
+status: up
+code: 200
+responseTime: 278
+lastUpdated: 2026-08-03T14:05:08.561Z
 startTime: 2026-05-08T04:25:25.813Z
 generator: Upptime <https://github.com/upptime/upptime>
