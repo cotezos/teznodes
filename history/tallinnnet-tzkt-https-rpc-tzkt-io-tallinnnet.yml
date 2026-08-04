@@ -1,7 +1,7 @@
 url: https://rpc.tzkt.io/tallinnnet/chains/main/blocks/head/header
 status: down
 code: 404
-responseTime: 714
-lastUpdated: 2026-08-02T23:50:45.046Z
+responseTime: 525
+lastUpdated: 2026-08-04T00:00:21.621Z
 startTime: 2026-07-24T04:24:25.781Z
 generator: Upptime <https://github.com/upptime/upptime>
