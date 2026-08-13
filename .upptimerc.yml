@@ -39,6 +39,8 @@ sites:
   url: https://tezos-shadownet.octez.io/chains/main/blocks/head/header
 - name: shadownet [tzkt] (https://rpc.tzkt.io/shadownet)
   url: https://rpc.tzkt.io/shadownet/chains/main/blocks/head/header
+- name: snet [tezosfoundation] (https://rpc.snet.teztnets.com)
+  url: https://rpc.snet.teztnets.com/chains/main/blocks/head/header
 - name: tallinnnet [tezosfoundation] (https://rpc.tallinnnet.teztnets.com)
   url: https://rpc.tallinnnet.teztnets.com/chains/main/blocks/head/header
 - name: tallinnnet [trilitech] (https://tezos-tallinnnet.octez.io)
