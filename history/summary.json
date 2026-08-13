@@ -35,7 +35,7 @@
     "timeYear": 285,
     "dailyMinutesDown": {
       "2025-10-07": 20,
-      "2026-08-13": 57,
+      "2026-08-13": 163,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -146,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-13": 57,
+      "2026-08-13": 163,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -199,7 +199,7 @@
       "2026-03-07": 158,
       "2026-03-06": 237,
       "2026-04-12": 26,
-      "2026-08-13": 57,
+      "2026-08-13": 163,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
@@ -551,6 +551,24 @@
     }
   },
   {
+    "name": "snet [tezosfoundation] (https://rpc.snet.teztnets.com)",
+    "url": "https://rpc.snet.teztnets.com/chains/main/blocks/head/header",
+    "icon": "https://icons.duckduckgo.com/ip3/rpc.snet.teztnets.com.ico",
+    "slug": "snet-tezosfoundation-https-rpc-snet-teztnets-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 335,
+    "timeDay": 335,
+    "timeWeek": 335,
+    "timeMonth": 335,
+    "timeYear": 335,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "tallinnnet [tezosfoundation] (https://rpc.tallinnnet.teztnets.com)",
     "url": "https://rpc.tallinnnet.teztnets.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.tallinnnet.teztnets.com.ico",
@@ -604,7 +622,7 @@
     "timeYear": 233,
     "dailyMinutesDown": {
       "2026-02-16": 55,
-      "2026-08-13": 58,
+      "2026-08-13": 163,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
       "2026-08-10": 1440,
