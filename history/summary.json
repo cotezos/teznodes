@@ -35,7 +35,7 @@
     "timeYear": 285,
     "dailyMinutesDown": {
       "2025-10-07": 20,
-      "2026-08-14": 674,
+      "2026-08-14": 784,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -147,7 +147,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 674,
+      "2026-08-14": 784,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -201,7 +201,7 @@
       "2026-03-07": 158,
       "2026-03-06": 237,
       "2026-04-12": 26,
-      "2026-08-14": 674,
+      "2026-08-14": 784,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -558,19 +558,19 @@
     "url": "https://rpc.snet.teztnets.com/chains/main/blocks/head/header",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.snet.teztnets.com.ico",
     "slug": "snet-tezosfoundation-https-rpc-snet-teztnets-com",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "94.64%",
+    "uptimeDay": "92.32%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "94.64%",
+    "uptimeYear": "94.64%",
     "time": 329,
-    "timeDay": 322,
+    "timeDay": 327,
     "timeWeek": 329,
     "timeMonth": 329,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2026-08-14": 1
+      "2026-08-14": 111
     }
   },
   {
@@ -627,7 +627,7 @@
     "timeYear": 235,
     "dailyMinutesDown": {
       "2026-02-16": 55,
-      "2026-08-14": 674,
+      "2026-08-14": 785,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
