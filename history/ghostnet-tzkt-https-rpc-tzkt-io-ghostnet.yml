@@ -1,7 +1,7 @@
 url: https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header
 status: down
 code: 404
-responseTime: 622
-lastUpdated: 2026-08-23T23:10:44.386Z
+responseTime: 521
+lastUpdated: 2026-08-24T23:13:43.614Z
 startTime: 2026-07-24T04:23:24.605Z
 generator: Upptime <https://github.com/upptime/upptime>
