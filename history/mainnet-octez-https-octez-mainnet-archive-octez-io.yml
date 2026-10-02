@@ -1,7 +1,7 @@
 url: https://octez-mainnet-archive.octez.io/chains/main/blocks/head/header
-status: down
-code: 503
-responseTime: 316
-lastUpdated: 2026-10-02T20:04:16.656Z
+status: up
+code: 200
+responseTime: 774
+lastUpdated: 2026-10-02T23:44:01.506Z
 startTime: 2026-07-23T15:06:37.903Z
 generator: Upptime <https://github.com/upptime/upptime>
