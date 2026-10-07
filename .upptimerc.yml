@@ -11,14 +11,6 @@ sites:
 # BEGIN sites managed by update_upptimerc.yml
 - name: bakingnet [tezosfoundation] (https://rpc.bakingnet.teztnets.com)
   url: https://rpc.bakingnet.teztnets.com/chains/main/blocks/head/header
-- name: ghostnet [smartpy] (https://ghostnet.smartpy.io)
-  url: https://ghostnet.smartpy.io/chains/main/blocks/head/header
-- name: ghostnet [tezosfoundation] (https://rpc.ghostnet.teztnets.com)
-  url: https://rpc.ghostnet.teztnets.com/chains/main/blocks/head/header
-- name: ghostnet [trilitech] (https://tezos-ghostnet.octez.io)
-  url: https://tezos-ghostnet.octez.io/chains/main/blocks/head/header
-- name: ghostnet [tzkt] (https://rpc.tzkt.io/ghostnet)
-  url: https://rpc.tzkt.io/ghostnet/chains/main/blocks/head/header
 - name: mainnet [octez] (https://octez-mainnet-archive.octez.io)
   url: https://octez-mainnet-archive.octez.io/chains/main/blocks/head/header
 - name: mainnet [smartpy] (https://mainnet.smartpy.io)
@@ -33,6 +25,8 @@ sites:
   url: https://rpc.tzkt.io/mainnet/chains/main/blocks/head/header
 - name: shadownet [octez] (https://octez-shadownet-archive.octez.io)
   url: https://octez-shadownet-archive.octez.io/chains/main/blocks/head/header
+- name: shadownet [smartpy] (https://shadownet.smartpy.io)
+  url: https://shadownet.smartpy.io/chains/main/blocks/head/header
 - name: shadownet [tezosfoundation] (https://rpc.shadownet.teztnets.com)
   url: https://rpc.shadownet.teztnets.com/chains/main/blocks/head/header
 - name: shadownet [trilitech] (https://tezos-shadownet.octez.io)
