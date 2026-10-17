@@ -49,10 +49,10 @@
     "slug": "mainnet-smartpy-https-mainnet-smartpy-io",
     "status": "down",
     "uptime": "95.42%",
-    "uptimeDay": "99.89%",
+    "uptimeDay": "98.56%",
     "uptimeWeek": "56.14%",
     "uptimeMonth": "14.30%",
-    "uptimeYear": "92.40%",
+    "uptimeYear": "92.39%",
     "time": 373,
     "timeDay": 627,
     "timeWeek": 529,
@@ -90,7 +90,7 @@
       "2026-09-17": 1440,
       "2026-09-16": 1440,
       "2026-09-15": 829,
-      "2026-10-17": 2
+      "2026-10-17": 21
     }
   },
   {
@@ -202,11 +202,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tezos-mainnet.octez.io.ico",
     "slug": "mainnet-trilitech-https-tezos-mainnet-octez-io",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "99.58%",
+    "uptime": "99.57%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "99.57%",
     "time": 509,
     "timeDay": 592,
     "timeWeek": 765,
@@ -216,7 +216,7 @@
       "2026-09-17": 233,
       "2026-09-18": 277,
       "2026-10-06": 308,
-      "2026-10-17": 1
+      "2026-10-17": 21
     }
   },
   {
@@ -421,7 +421,7 @@
     "timeYear": 333,
     "dailyMinutesDown": {
       "2026-02-16": 55,
-      "2026-10-17": 96,
+      "2026-10-17": 115,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
