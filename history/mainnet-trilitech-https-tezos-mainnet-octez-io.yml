@@ -1,7 +1,7 @@
 url: https://tezos-mainnet.octez.io/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 496
-lastUpdated: 2026-10-22T01:03:45.397Z
+status: down
+code: 503
+responseTime: 378
+lastUpdated: 2026-10-22T12:26:48.725Z
 startTime: 2026-06-02T06:19:14.962Z
 generator: Upptime <https://github.com/upptime/upptime>
