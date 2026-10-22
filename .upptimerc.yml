@@ -35,12 +35,6 @@ sites:
   url: https://rpc.tzkt.io/shadownet/chains/main/blocks/head/header
 - name: snet [tezosfoundation] (https://rpc.snet.teztnets.com)
   url: https://rpc.snet.teztnets.com/chains/main/blocks/head/header
-- name: tallinnnet [tezosfoundation] (https://rpc.tallinnnet.teztnets.com)
-  url: https://rpc.tallinnnet.teztnets.com/chains/main/blocks/head/header
-- name: tallinnnet [trilitech] (https://tezos-tallinnnet.octez.io)
-  url: https://tezos-tallinnnet.octez.io/chains/main/blocks/head/header
-- name: tallinnnet [tzkt] (https://rpc.tzkt.io/tallinnnet)
-  url: https://rpc.tzkt.io/tallinnnet/chains/main/blocks/head/header
 - name: ushuaianet [tezosfoundation] (https://rpc.ushuaianet.teztnets.com)
   url: https://rpc.ushuaianet.teztnets.com/chains/main/blocks/head/header
 - name: ushuaianet [trilitech] (https://tezos-ushuaianet.octez.io)
