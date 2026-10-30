@@ -1,7 +1,7 @@
 url: https://rpc.snet.teztnets.com/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 195
-lastUpdated: 2026-10-29T01:59:22.182Z
+responseTime: 288
+lastUpdated: 2026-10-30T02:14:47.766Z
 startTime: 2026-08-13T02:41:59.888Z
 generator: Upptime <https://github.com/upptime/upptime>
