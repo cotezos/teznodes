@@ -1,7 +1,7 @@
 url: https://rpc.bakingnet.teztnets.com/chains/main/blocks/head/header
 status: up
 code: 200
-responseTime: 255
-lastUpdated: 2026-11-06T02:56:42.059Z
+responseTime: 203
+lastUpdated: 2026-11-07T02:26:11.270Z
 startTime: 2026-07-23T15:06:37.214Z
 generator: Upptime <https://github.com/upptime/upptime>
