@@ -1,7 +1,7 @@
 url: https://tezos-ushuaianet.octez.io/chains/main/blocks/head/header
-status: up
-code: 200
-responseTime: 362
-lastUpdated: 2026-11-16T20:44:56.111Z
+status: down
+code: 404
+responseTime: 270
+lastUpdated: 2026-11-17T03:12:52.023Z
 startTime: 2026-10-09T06:27:05.675Z
 generator: Upptime <https://github.com/upptime/upptime>
